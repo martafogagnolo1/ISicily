@@ -188,7 +188,7 @@
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <w n="10" lemma="NOLEMMA">felix</w>
+                    <w n="10" lemma="felix">felix</w>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
