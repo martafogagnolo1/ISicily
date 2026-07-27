@@ -183,8 +183,8 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w n="5">Diis</w> <name><w n="10">M<supplied reason="undefined" evidence="previouseditor">anibus</supplied></w></name>
-                    <lb n="2"/><name><w n="15"><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct" n="20">·</g> <name><w n="25">Stationam</w></name> <gap reason="lost" extent="unknown" unit="character" n="30"/> <name><w n="35"><supplied reason="lost">Sta</supplied>
+                    <lb n="1"/><w n="5">Diis</w> <w n="10">M<supplied reason="undefined" evidence="previouseditor">anibus</supplied></w>
+                    <lb n="2"/><name><w n="15"><expan><abbr>P</abbr><ex>ublius</ex></expan></w></name> <g ref="#interpunct" n="20">·</g> <name><w n="25">Statio</w></name> <gap reason="illegible" unit="character" quantity="1" n="26"/><orig n="27">AM</orig><gap reason="lost" extent="unknown" unit="character" n="30"/> <name><w n="35"><supplied reason="lost">Sta</supplied>
                     <lb n="3" break="no"/>tius</w></name> <name><w n="40"><supplied reason="lost">Qu</supplied>artus</w></name> <g ref="#interpunct" n="45">·</g> <w n="50">et</w> <supplied reason="lost"><g ref="#interpunct" n="55">·</g></supplied> <w n="60"><supplied reason="lost">sibi</supplied></w>
                     <lb n="4"/><w n="65">et</w> <g ref="#interpunct" n="70">·</g> <name><w n="75">Salviae</w></name> <g ref="#interpunct" n="80">·</g> <name><w n="85"><expan><abbr>C</abbr><ex>ai</ex></expan></w></name> <g ref="#interpunct" n="90">·</g> <w n="95"><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <g ref="#interpunct" n="100">·</g> <name><w n="105">Felicul<supplied reason="undefined" evidence="previouseditor">ae</supplied></w></name> <supplied reason="lost"><g ref="#interpunct" n="110">·</g></supplied> <w n="115"><supplied reason="undefined" evidence="previouseditor">uxori</supplied></w>
                     <lb n="5"/><w n="120">posterisque</w> <w n="125">suis</w> <g ref="#interpunct" n="130">·</g> <w n="135"><expan><abbr>l</abbr><ex>ocus</ex></expan></w> <supplied reason="lost"><g ref="#interpunct" n="140">·</g></supplied> <w n="145"><supplied reason="lost"><expan><abbr>d</abbr><ex>atus</ex></expan></supplied></w> <supplied reason="lost"><g ref="#interpunct" n="150">·</g></supplied> <w n="155"><supplied reason="lost"><expan><abbr>d</abbr><ex>ecreto</ex></expan></supplied></w> <supplied reason="lost"><g ref="#interpunct" n="160">·</g></supplied> <w n="165"><supplied reason="lost"><roleName type="civic" subtype="decurio"><expan><abbr>d</abbr><ex>ecurionum</ex></expan></roleName></supplied></w>
@@ -195,7 +195,9 @@
                     <w n="5" lemma="deus">Diis</w>
                     <w n="10" lemma="Manes">Manibus</w>
                     <w n="15" lemma="Publius">Publius</w>
-                    <w n="25" lemma="Stationa">Stationam</w>
+                    <w n="25" lemma="Statius">Statio</w>
+                    <gap reason="illegible" unit="character" quantity="1" n="26"><desc>.</desc></gap>
+                    <orig n="27">AM</orig>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                     <w n="35" lemma="Statius">Statius</w>
                     <w n="40" lemma="Quartus">Quartus</w>
