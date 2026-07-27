@@ -183,9 +183,9 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w n="5"><supplied reason="lost">Ven</supplied>erei</w> <g ref="#interpunct" n="10">·</g> <name><w n="15"><expan><abbr>Erucin</abbr><ex>ae</ex></expan></w></name>
+                    <lb n="1"/><persName type="divine"><name><w n="5"><supplied reason="lost">Ven</supplied>erei</w></name> <g ref="#interpunct" n="10">·</g> <name type="epithet"><w n="15"><expan><abbr>Erucin</abbr><ex>ae</ex></expan></w></name></persName>
                     <lb n="2"/><w n="20"><supplied reason="lost">s</supplied>acrom</w>
-                    <lb n="3"/><name><w n="25"><gap reason="lost" extent="unknown" unit="character" n="30"/>ltinius</w></name> <g ref="#interpunct" n="35">·</g> <name><w n="40"><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct" n="45">·</g> <w n="50"><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="3"/><name><gap reason="lost" extent="unknown" unit="character" n="25"/><w part="F" n="30">ltinius</w></name> <g ref="#interpunct" n="35">·</g> <name><w n="40"><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <g ref="#interpunct" n="45">·</g> <w n="50"><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -193,8 +193,8 @@
                     <w n="5" lemma="Venus">Venerei</w>
                     <w n="15" lemma="Erucina">Erucinae</w>
                     <w n="20" lemma="sacer">sacrom</w>
-                    <w n="25" lemma="NOLEMMA">[-?-]ltinius</w>
-                    <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>ltinius
+                    <gap reason="lost" extent="unknown" unit="character" n="25"><desc>[-?-]</desc></gap>
+                    <w n="30" lemma="NOLEMMA">ltinius</w>
                     <w n="40" lemma="Publius">Publi</w>
                     <w n="50" lemma="filius">filius</w>
                 </ab>
