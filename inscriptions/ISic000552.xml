@@ -185,20 +185,19 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
                     <lb n="1"/><name><w n="5">Flamma</w></name> <g ref="#interpunct" n="10">·</g> <w n="15"><choice><sic><expan><abbr>sic</abbr><ex>utor</ex></expan></sic><corr><expan><abbr>sec</abbr><ex>utor</ex></expan></corr></choice></w> <g ref="#interpunct" n="20">·</g> <w n="25"><expan><abbr>vix</abbr><ex>it</ex></expan></w> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>an</abbr><ex>nis</ex></expan></w> <g ref="#interpunct" n="40">·</g> <num value="30"><w n="45">XXX</w></num>
-                    <lb n="2"/><w n="50"><choice><orig n="55">pugnat</orig><reg>pugnavit</reg></choice></w> <g ref="#interpunct" n="60">·</g> <num value="34"><w n="65">XXXIIII</w></num> <g ref="#interpunct" n="70">·</g> <w n="75">vicit</w> <g ref="#interpunct" n="80">·</g> <num value="21"><w n="85">XXI</w></num>
-                    <lb n="3"/><w n="90">stans</w> <g ref="#interpunct" n="95">·</g> <num value="9"><w n="100">VIIII</w></num> <g ref="#interpunct" n="105">·</g> <w n="110"><expan><abbr>mis</abbr><ex>sus</ex></expan></w> <g ref="#interpunct" n="115">·</g> <num value="4"><w n="120">IIII</w></num> <g ref="#interpunct" n="125">·</g> <w n="130"><expan><abbr>nat</abbr><ex>ione</ex></expan></w> <g ref="#interpunct" n="135">·</g> <name><w n="140"><expan><abbr><hi rend="supraline">S</hi></abbr><ex>y</ex><abbr><hi rend="supraline">rus</hi></abbr></expan></w></name>
-                    <lb n="4"/><w n="145"><choice><orig n="150">hui</orig><reg>huic</reg></choice></w> <name><w n="155">Delicatus</w></name> <g ref="#interpunct" n="160">·</g> <w n="165">coarmio</w> <g ref="#interpunct" n="170">·</g> <w n="175">merenti</w> <g ref="#interpunct" n="180">·</g> <w n="185">fecit</w>
+                    <lb n="2"/><w n="50"><choice><orig>pugnat</orig><reg>pugnavit</reg></choice></w> <g ref="#interpunct" n="60">·</g> <num value="34"><w n="65">XXXIIII</w></num> <g ref="#interpunct" n="70">·</g> <w n="75">vicit</w> <g ref="#interpunct" n="80">·</g> <num value="21"><w n="85">XXI</w></num>
+                    <lb n="3"/><w n="90">stans</w> <g ref="#interpunct" n="95">·</g> <num value="9"><w n="100">VIIII</w></num> <g ref="#interpunct" n="105">·</g> <w n="110"><expan><abbr>mis</abbr><ex>sus</ex></expan></w> <g ref="#interpunct" n="115">·</g> <num value="4"><w n="120">IIII</w></num> <g ref="#interpunct" n="125">·</g> <w n="130"><expan><abbr>nat</abbr><ex>ione</ex></expan></w> <g ref="#interpunct" n="135">·</g> <placeName type="ethnic"><w n="140"><expan><abbr><hi rend="supraline">S</hi></abbr><ex>y</ex><abbr><hi rend="supraline">rus</hi></abbr></expan></w></placeName>
+                    <lb n="4"/><w n="145"><choice><orig>hui</orig><reg>huic</reg></choice></w> <name><w n="155">Delicatus</w></name> <g ref="#interpunct" n="160">·</g> <w n="165">coarmio</w> <g ref="#interpunct" n="170">·</g> <w n="175">merenti</w> <g ref="#interpunct" n="180">·</g> <w n="185">fecit</w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <w n="5" lemma="Flamma">Flamma</w>
-                    <w n="15" lemma="secutor">secutor</w>
+                    <w n="15" lemma="secutor">sicutor</w>
                     <w n="25" lemma="vivo">vixit</w>
                     <w n="35" lemma="annus">annis</w>
                     <w n="45" lemma="XXX">XXX</w>
-                    <w n="50" lemma="pugno">pugnavit</w>
-                    <orig n="55"/>
+                    <w n="50" lemma="pugno">pugnat</w>
                     <w n="65" lemma="XXXIIII">XXXIIII</w>
                     <w n="75" lemma="vinco">vicit</w>
                     <w n="85" lemma="XXI">XXI</w>
@@ -208,8 +207,7 @@
                     <w n="120" lemma="IIII">IIII</w>
                     <w n="130" lemma="natio">natione</w>
                     <w n="140" lemma="Syrus">Syrus</w>
-                    <w n="145" lemma="hic">huic</w>
-                    <orig n="150"/>
+                    <w n="145" lemma="hic">hui</w>
                     <w n="155" lemma="Delicatus">Delicatus</w>
                     <w n="165" lemma="coarmius">coarmio</w>
                     <w n="175" lemma="mereo">merenti</w>
