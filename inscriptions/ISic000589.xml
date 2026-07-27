@@ -185,20 +185,20 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10"><abbr>i</abbr></w> <g ref="#interpunct" n="15">·</g> <w n="20"><expan><abbr>t</abbr><ex>estamento</ex></expan></w> <g ref="#interpunct" n="25">·</g> <w n="30"><expan><abbr>f</abbr><ex>ieri</ex></expan></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="35"/> <w n="40"><expan><abbr>pe<choice><orig n="45">q</orig><reg>c</reg></choice></abbr><ex>unia</ex></expan></w> <g ref="#interpunct" n="50">·</g> <w n="55">sua</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><orig n="10">I</orig> <g ref="#interpunct" n="15">·</g> <w n="20"><expan><abbr>T</abbr><ex>iti</ex></expan></w> <g ref="#interpunct" n="25">·</g> <w n="30"><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="35"/> <g ref="#interpunct" n="40">·</g> <w n="45"><expan><abbr>pe<choice><orig>q</orig><reg>c</reg></choice></abbr><ex>unia</ex></expan></w> <g ref="#interpunct" n="50">·</g> <w n="55">sua</w> <gap reason="lost" extent="unknown" unit="character" n="60"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <w n="10" lemma="NOLEMMA">i</w>
-                    <w n="20" lemma="testamentum">testamento</w>
-                    <w n="30" lemma="fio">fieri</w>
+                    <orig n="10">I</w>
+                    <w n="20" lemma="Titus">Titi</w>
+                    <w n="30" lemma="filius">filius</w>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
-                    <w n="40" lemma="pecunia">pecunia</w>
-                    <orig n="45"/>
+                    <w n="40" lemma="pecunia">pequnia</w>
                     <w n="55" lemma="suus">sua</w>
+                    <gap reason="lost" extent="unknown" unit="character" n="60"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
             <div type="apparatus">
