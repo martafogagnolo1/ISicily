@@ -185,10 +185,10 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">dius</w> <g ref="#interpunct" n="15">·</g> <name><w n="20"><expan><abbr><hi rend="reversed"><am>C</am></hi></abbr><ex>mulieris</ex></expan></w></name> <g ref="#interpunct" n="25">·</g> <w n="30"><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <name><w n="35">Philo</w></name> <gap reason="lost" extent="unknown" unit="character" n="40"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="45"/> <orig n="50">O</orig><g ref="#interpunct" n="55">·</g> <w n="60">filiae</w> <g ref="#interpunct" n="65">·</g> <name><w n="70">Nep</w></name> <gap reason="lost" extent="unknown" unit="character" n="75"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="80"/> <orig n="85">AE</orig><g ref="#interpunct" n="90">·</g> <g ref="#interpunct" n="95">·</g> <w n="100">bene</w> <gap reason="lost" extent="unknown" unit="character" n="105"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="110"/> <orig n="115">IO</orig><g ref="#interpunct" n="120">·</g> <w n="125">caput</w> <g ref="#interpunct" n="130">·</g> <orig n="135">IM</orig><gap reason="lost" extent="unknown" unit="character" n="140"/>
+                    <lb n="1"/><name><gap reason="lost" extent="unknown" unit="character" n="5"/><w part="F" n="10">dius</w></name> <g ref="#interpunct" n="15">·</g> <w n="20"><expan><abbr><hi rend="reversed"><am>C</am></hi></abbr><ex>mulieris</ex></expan></w> <g ref="#interpunct" n="25">·</g> <w n="30"><expan><abbr>l</abbr><ex>ibertus</ex></expan></w> <name><w n="35">Philo</w></name> <gap reason="lost" extent="unknown" unit="character" n="40"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="45"/><w part="F" n="50">o</w> <g ref="#interpunct" n="55">·</g> <w n="60">filiae</w> <g ref="#interpunct" n="65">·</g> <name><w part="I" n="70">Nep</w></name><gap reason="lost" extent="unknown" unit="character" n="75"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="80"/><w part="F" n="85">ae</w> <g ref="#interpunct" n="90">·</g> <g ref="#interpunct" n="95">·</g> <w n="100">bene</w> <gap reason="lost" extent="unknown" unit="character" n="105"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="110"/><w n="115">io</w> <g ref="#interpunct" n="120">·</g> <w n="125">caput</w> <g ref="#interpunct" n="130">·</g> <w part="I" n="135">im</w><gap reason="lost" extent="unknown" unit="character" n="140"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -200,18 +200,18 @@
                     <w n="35" lemma="Philus">Philo</w>
                     <gap reason="lost" extent="unknown" unit="character" n="40"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="45"><desc>[-?-]</desc></gap>
-                    <orig n="50">O</orig>
+                    <w n="50" lemma="NOLEMMA">o</w>
                     <w n="60" lemma="filia">filiae</w>
                     <w n="70" lemma="NOLEMMA">Nep</w>
                     <gap reason="lost" extent="unknown" unit="character" n="75"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="80"><desc>[-?-]</desc></gap>
-                    <orig n="85">AE</orig>
+                    <w n="85" lemma="NOLEMMA">ae</w>
                     <w n="100" lemma="bene">bene</w>
                     <gap reason="lost" extent="unknown" unit="character" n="105"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="110"><desc>[-?-]</desc></gap>
-                    <orig n="115">IO</orig>
+                    <w n="115" lemma="NOLEMMA">io</w>
                     <w n="125" lemma="caput">caput</w>
-                    <orig n="135">IM</orig>
+                    <w n="135" lemma="NOLEMMA">im</w>
                     <gap reason="lost" extent="unknown" unit="character" n="140"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
