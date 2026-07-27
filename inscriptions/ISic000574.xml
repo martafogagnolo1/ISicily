@@ -183,20 +183,19 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <orig n="10">A</orig><g ref="#interpunct" n="15">·</g> <orig n="20">LI</orig><gap reason="lost" extent="unknown" unit="character" n="25"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="30"/> <g ref="#interpunct" n="35">·</g> <orig n="40">PA</orig><w n="45"><unclear>T</unclear></w> <gap reason="lost" extent="unknown" unit="character" n="50"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><w part="F" n="10">a</w> <g ref="#interpunct" n="15">·</g> <w part="I" n="20">li</w><gap reason="lost" extent="unknown" unit="character" n="25"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="30"/> <g ref="#interpunct" n="35">·</g> <w part="I" n="40">pa<unclear>t</unclear></w> <gap reason="lost" extent="unknown" unit="character" n="45"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <orig n="10">A</orig>
-                    <orig n="20">LI</orig>
+                    <w n="10" lemma="NOLEMMA">a</w>
+                    <w n="20" lemma="NOLEMMA">li</w>
                     <gap reason="lost" extent="unknown" unit="character" n="25"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
-                    <orig n="40">PA</orig>
-                    <w n="45" lemma="NOLEMMA">T</w>
-                    <gap reason="lost" extent="unknown" unit="character" n="50"><desc>[-?-]</desc></gap>
+                    <w n="40" lemma="NOLEMMA">pat</w>
+                    <gap reason="lost" extent="unknown" unit="character" n="45"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
             <div type="apparatus">
