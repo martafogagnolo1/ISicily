@@ -186,9 +186,9 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line" n="5"/>
                     <lb n="2"/><roleName type="supracivic" subtype="quaestor.pro.praetore"><w n="10"><supplied reason="lost"><expan><abbr>q</abbr><ex>uaestor</ex></expan></supplied></w> <w n="15">pro</w> <g ref="#interpunct" n="20">·</g> <w n="25"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w></roleName>
-                    <lb n="3"/><roleName type="military" subtype="miles"><w n="30"><supplied reason="lost">mi</supplied>lites</w></roleName>que <g ref="#interpunct" n="35">·</g> <w n="40">in</w> <g ref="#interpunct" n="45">·</g> <w n="50">monte</w>
-                    <lb n="4"/><name><w n="55">Eruco</w></name> <g ref="#interpunct" n="60">·</g> <w n="65">fecerunt</w>
-                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w n="70"><expan><abbr>tr</abbr><ex>ibunus</ex></expan></w> <g ref="#interpunct" n="75">·</g> <w n="80"><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName> <g ref="#interpunct" n="85">·</g> <gap reason="lost" extent="unknown" unit="character" n="90"/> <w n="95">eus</w> <name><w n="100">Pr</w></name> <gap reason="lost" extent="unknown" unit="character" n="105"/>
+                    <lb n="3"/><roleName type="military" subtype="miles"><w n="30"><supplied reason="lost">mi</supplied>lites</w></roleName>que <g ref="#interpunct" n="35">·</g> <w n="40">in</w> <g ref="#interpunct" n="45">·</g> <placeName><w n="50">monte</w>
+                    <lb n="4"/><name><w n="55">Eruco</w></name></placeName> <g ref="#interpunct" n="60">·</g> <w n="65">fecerunt</w>
+                    <lb n="5"/><roleName type="military" subtype="tribunus.militum"><w n="70"><expan><abbr>tr</abbr><ex>ibunus</ex></expan></w> <g ref="#interpunct" n="75">·</g> <w n="80"><expan><abbr>mil</abbr><ex>itum</ex></expan></w></roleName> <g ref="#interpunct" n="85">·</g> <gap reason="lost" extent="unknown" unit="character" n="90"/><w part="F" n="95">eus</w> <name><w part="I" n="100">Pr</w><gap reason="lost" extent="unknown" unit="character" n="105"/></name>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
