@@ -190,7 +190,7 @@
                 <ab>
                     <lb n="1"/><persName type="attested"><name><w n="5">Herennia
                     <lb n="2" break="no"/>nus</w></name></persName> <w n="10">verna</w>
-                    <lb n="3"/><w n="15">patri</w> <g ref="#interpunct" n="20">·</g> <w n="25">benem</w> <gap reason="lost" extent="unknown" unit="character" n="30"/>
+                    <lb n="3"/><w n="15">patri</w> <g ref="#interpunct" n="20">·</g> <w n="25">benem<supplied reason="lost">erenti</supplied></w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -198,8 +198,7 @@
                     <w n="5" lemma="Herennianus">Herennianus</w>
                     <w n="10" lemma="verna">verna</w>
                     <w n="15" lemma="pater">patri</w>
-                    <w n="25" lemma="benemereo">benem</w>
-                    <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
+                    <w n="25" lemma="benemereo">benemerenti</w>
                 </ab>
             </div>
             <div type="apparatus">
