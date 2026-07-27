@@ -211,12 +211,12 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5"><expan><abbr>T</abbr><ex>ito</ex></expan></w> <name><w n="10">Quarto</w></name>
+                    <lb n="1"/><name><w n="5"><expan><abbr>T</abbr><ex>ito</ex></expan></w></name> <name><w n="10">Quarto</w></name>
                     <lb n="2"/><name><w n="15">Masculo</w></name>
                     <lb n="3"/><name><w n="20"><expan><abbr>T</abbr><ex>iti</ex></expan></w></name> <name><w n="25">Quarti</w></name> <name><w n="30">Cres
-                    <lb n="4" break="no"/>centinii</w></name> <g ref="#interpunct" n="35">·</g> <name><w n="40"><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></w></name> <g ref="#interpunct" n="45">·</g>
+                    <lb n="4" break="no"/>centinii</w></name> <g ref="#interpunct" n="35">·</g> <orgName><w n="40"><expan><abbr>Q</abbr><ex>ui</ex><abbr>r</abbr><ex>ina</ex></expan></w></orgName> <g ref="#interpunct" n="45">·</g>
                     <lb n="5"/><w n="50"><expan><abbr>fil</abbr><ex>io</ex></expan></w> <w n="55"><expan><abbr>dec</abbr><ex>urioni</ex></expan></w> <w n="60"><expan><abbr>spl</abbr><ex>endidissimae</ex></expan></w>
-                    <lb n="6"/><w n="65"><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><w n="70"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <name><w n="75"><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></w></name>
+                    <lb n="6"/><w n="65"><expan><abbr>col</abbr><ex>oniae</ex></expan></w> <name><w n="70"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></w></name> <placeName type="ethnic"><w n="75"><expan><abbr>Lilyb</abbr><ex>itanorum</ex></expan></w></placeName>
                     <lb n="7"/><w n="80"><expan><abbr>q</abbr><ex>uestori</ex></expan></w> <w n="85"><expan><abbr>p</abbr><ex>ecuniae</ex></expan></w> <w n="90"><expan><abbr>p</abbr><ex>ublicae</ex></expan></w> <w n="95"><expan><abbr>cur</abbr><ex>atori</ex></expan></w> <w n="100"><expan><abbr>f</abbr><ex>rumenti</ex></expan></w> <w n="105"><expan><abbr>p</abbr><ex>ublici</ex></expan></w>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="line" n="110"/>
                 </ab>
@@ -232,7 +232,7 @@
                     <w n="40" lemma="Quirinus">Quirina</w>
                     <w n="50" lemma="filius">filio</w>
                     <w n="55" lemma="decurio">decurioni</w>
-                    <w n="60" lemma="splendus">splendidissimae</w>
+                    <w n="60" lemma="splendidus">splendidissimae</w>
                     <w n="65" lemma="colonia">coloniae</w>
                     <w n="70" lemma="Augusta">Augustae</w>
                     <w n="75" lemma="Lilybitanus">Lilybitanorum</w>
