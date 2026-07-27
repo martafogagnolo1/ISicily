@@ -199,7 +199,7 @@
                     <lb n="7"/><w n="180">confert</w> <g ref="#interpunct" n="185">·</g> <roleName type="supracivic" subtype="clarissimus"><w n="190"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct" n="195">·</g> <w n="200"><expan><abbr>v</abbr><ex>iro</ex></expan></w> <g ref="#interpunct" n="205">·</g> <w n="210">adlecto</w>
                     <lb n="8"/><w n="215">inter</w> <g ref="#interpunct" n="220">·</g> <roleName type="supracivic" subtype="tribunicius"><w n="225">tribunicios</w></roleName>
                     <lb n="9"/><w n="230">ab</w> <g ref="#interpunct" n="235">·</g> <roleName type="supracivic" subtype="imperator"><name><w n="240"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></w></name></roleName> <g ref="#interpunct" n="245">·</g> <name><w n="250">Caesare</w></name>
-                    <lb n="10"/><del rend="erasure"><name><w n="255"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct" n="260">·</g> <name><w n="265"><expan><abbr>Aur</abbr><ex>elio</ex></expan></w></name> <g ref="#interpunct" n="270">·</g> <name><w n="275">Commodo</w></name> <g ref="#interpunct" n="280">·</g></del><name><w n="285">Anto
+                    <lb n="10"/><del rend="erasure"><name><w n="255"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name> <g ref="#interpunct" n="260">·</g> <name><w n="265"><expan><abbr>Aur</abbr><ex>elio</ex></expan></w></name> <g ref="#interpunct" n="270">·</g> <name><w n="275">Commodo</w></name> <g ref="#interpunct" n="280">·</g></del> <name><w n="285">Anto
                     <lb n="11" break="no"/>nino</w></name> <g ref="#interpunct" n="290">·</g> <name><w n="295">Pio</w></name> <g ref="#interpunct" n="300">·</g> <name><w n="305">Felice</w></name>
                     <lb n="12"/><name><w n="310"><expan><abbr>Aug</abbr><ex>usto</ex></expan></w></name> <g ref="#interpunct" n="315">·</g> <w n="320">tribules</w> <g ref="#interpunct" n="325">·</g> <w n="330"><expan><abbr>t<hi rend="ligature">ri</hi>b</abbr><ex>us</ex></expan></w>
                     <lb n="13"/><name><w n="335">Iovis</w></name> <g ref="#interpunct" n="340">·</g> <name><w n="345"><expan><abbr>Aug</abbr><ex>usti</ex></expan></w></name> <g ref="#interpunct" n="350">·</g> <w n="355">pecu<hi rend="ligature">ni</hi>a</w>
@@ -213,7 +213,7 @@
                     <w n="25" lemma="Marcus">Marci</w>
                     <w n="35" lemma="filius">filio</w>
                     <w n="40" lemma="Claudia">Claudia</w>
-                    <w n="50" lemma="Bieti">Bieti</w>
+                    <w n="50" lemma="Bietis">Bieti</w>
                     <w n="60" lemma="Glaucus">Glauco</w>
                     <w n="65" lemma="pater">patri</w>
                     <w n="70" lemma="senator">senatoris</w>
