@@ -186,18 +186,18 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w n="5">Clodi</w> <gap reason="lost" extent="unknown" unit="character" n="10"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="15"/> <orig n="20">FOLV</orig><gap reason="lost" extent="unknown" unit="character" n="25"/> <orig n="30">TRO</orig><gap reason="lost" extent="unknown" unit="character" n="35"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="40"/> <orig n="45">MIN</orig><gap reason="lost" extent="unknown" unit="character" n="50"/> <orig n="55">DIV</orig><gap reason="lost" extent="unknown" unit="character" n="60"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="65"/> <orig n="70">CUST</orig><gap reason="lost" extent="unknown" unit="character" n="75"/> <orig n="80">HER</orig><gap reason="lost" extent="unknown" unit="character" n="85"/> <orig n="90">RV</orig><gap reason="lost" extent="unknown" unit="character" n="95"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character" n="100"/> <orig n="105">H</orig><gap reason="lost" extent="unknown" unit="character" n="110"/> <orig n="115">C</orig><gap reason="lost" extent="unknown" unit="character" n="120"/> <orig n="125">IM</orig><gap reason="lost" extent="unknown" unit="character" n="130"/>
+                    <lb n="1"/><w n="5">Clodi</w><gap reason="lost" extent="unknown" unit="character" n="10"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="15"/><orig n="20">FOLV</orig><gap reason="lost" extent="unknown" unit="character" n="25"/><orig n="30">TRO</orig><gap reason="lost" extent="unknown" unit="character" n="35"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="40"/><orig n="45">MIN</orig><gap reason="lost" extent="unknown" unit="character" n="50"/><orig n="55">DIV</orig><gap reason="lost" extent="unknown" unit="character" n="60"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="65"/><orig n="70">CUST</orig><gap reason="lost" extent="unknown" unit="character" n="75"/><orig n="80">HER</orig><gap reason="lost" extent="unknown" unit="character" n="85"/><orig n="90">RV</orig><gap reason="lost" extent="unknown" unit="character" n="95"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character" n="100"/><orig n="105">H</orig><gap reason="lost" extent="unknown" unit="character" n="110"/><orig n="115">C</orig><gap reason="lost" extent="unknown" unit="character" n="120"/><orig n="125">IM</orig><gap reason="lost" extent="unknown" unit="character" n="130"/>
                     <lb n="6"/><orig n="135">HIL</orig><gap reason="lost" extent="unknown" unit="character" n="140"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character" n="145"/> <orig n="150">LI</orig><gap reason="lost" extent="unknown" unit="character" n="155"/> <orig n="160">MO</orig>
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character" n="145"/><orig n="150">LI</orig><gap reason="lost" extent="unknown" unit="character" n="155"/><orig n="160">MO</orig>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
-                    <w n="5" lemma="NOLEMMA">Clodi</w>
+                    <w n="5" lemma="Clodius">Clodi</w>
                     <gap reason="lost" extent="unknown" unit="character" n="10"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
                     <orig n="20">FOLV</orig>
