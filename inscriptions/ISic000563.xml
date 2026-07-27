@@ -185,11 +185,11 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><w n="5"><expan><abbr>D</abbr><ex>is</ex></expan></w> <name><w n="10"><supplied reason="lost"><expan><abbr>M</abbr><ex>anibus</ex></expan></supplied></w></name>
+                    <lb n="1"/><w n="5"><expan><abbr>D</abbr><ex>is</ex></expan></w> <w n="10"><supplied reason="lost"><expan><abbr>m</abbr><ex>anibus</ex></expan></supplied></w>
                     <lb n="2"/><name><w n="15"><expan><abbr>Q</abbr><ex>uintus</ex></expan></w></name> <g ref="#interpunct" n="20">·</g> <name><w n="25">Munatiu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" n="30"/>
                     <lb n="3"/><w n="35">fecit</w> <gap reason="lost" extent="unknown" unit="character" n="40"/> <w n="45">et</w> <gap reason="lost" extent="unknown" unit="character" n="50"/>
-                    <lb n="4"/><gap reason="lost" quantity="1" unit="line" n="55"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character" n="60"/> <orig n="65">P</orig><g ref="#interpunct" n="70">·</g> <num value="14"><w n="75">XIIII</w></num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="55"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character" n="60"/><orig n="65">P</orig> <g ref="#interpunct" n="70">·</g> <num value="14"><w n="75">XIIII</w></num>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -203,7 +203,7 @@
                     <gap reason="lost" extent="unknown" unit="character" n="40"><desc>[-?-]</desc></gap>
                     <w n="45" lemma="et">et</w>
                     <gap reason="lost" extent="unknown" unit="character" n="50"><desc>[-?-]</desc></gap>
-                    <gap reason="lost" quantity="1" unit="line" n="55"><desc>[-?-]</desc></gap>
+                    <gap reason="lost" extent="unknown" unit="character" n="55"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="60"><desc>[-?-]</desc></gap>
                     <orig n="65">P</orig>
                     <w n="75" lemma="XIIII">XIIII</w>
