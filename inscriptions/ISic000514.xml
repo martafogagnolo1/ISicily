@@ -187,12 +187,12 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la">
                 <ab>
-                    <lb n="1"/><w n="5">Cureti</w> <w n="10">vivas</w>
+                    <lb n="1"/><name><w n="5">Cureti</w></name> <w n="10">vivas</w>
                     <lb n="2"/><w n="15">pro</w> <w n="20">meritis</w> <w n="25">eximiae</w> <w n="30">lenitatis</w>
                     <lb n="3"/><w n="35">et</w> <w n="40">benignae</w> <w n="45">administrationis</w>
                     <lb n="4"/><w n="50"><supplied reason="lost">s</supplied>trenuo</w> <w n="55"><unclear>a</unclear>c</w> <w n="60">praedicabili</w> <roleName type="civic" subtype="iudex"><w n="65">iudici</w></roleName>
                     <lb n="5"/><name><w n="70">Domitio</w></name> <g ref="#interpunct" n="75">·</g> <name><w n="80">Zenofilo</w></name>
-                    <lb n="6"/><w n="85"><expan><abbr>v</abbr><ex>iro</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w n="90"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w n="95"><supplied reason="lost"><roleName type="supracivic" subtype="corrector"><expan><abbr>corr</abbr><ex>ectori</ex></expan></roleName></supplied></w> <w n="100"><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <name><w n="105"><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></name>
+                    <lb n="6"/><w n="85"><expan><abbr>v</abbr><ex>iro</ex></expan></w> <roleName type="supracivic" subtype="clarissimus"><w n="90"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w n="95"><supplied reason="lost"><roleName type="supracivic" subtype="corrector"><expan><abbr>corr</abbr><ex>ectori</ex></expan></roleName></supplied></w> <w n="100"><expan><abbr>prov</abbr><ex>inciae</ex></expan></w> <placeName><w n="105"><expan><abbr>Sicil</abbr><ex>iae</ex></expan></w></placeName>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
