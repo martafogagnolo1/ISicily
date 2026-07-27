@@ -182,14 +182,14 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><orig n="5">MR MSPRLVCO</orig>
-                    <lb n="2"/><orig n="10">OCHY</orig><gap reason="lost" quantity="2" unit="character" n="15"/> <g ref="#interpunct" n="20">·</g> <orig n="25">C</orig><g ref="#interpunct" n="30">·</g> <orig n="35">S</orig>
-                    <lb n="3"/><orig n="40">INISTECARII</orig><w n="45"><expan><abbr>d</abbr><ex cert="low">ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w n="50"><expan><abbr>d</abbr><ex cert="low">ecurionum</ex></expan></w></roleName>
+                    <lb n="1"/><orig n="5">MRMSPRLVCO</orig>
+                    <lb n="2"/><orig n="10">OCHY</orig><gap reason="lost" quantity="2" unit="character" n="15"/> <g ref="#interpunct" n="20">·</g> <orig n="25">C</orig> <g ref="#interpunct" n="30">·</g> <orig n="35">S</orig>
+                    <lb n="3"/><orig n="40">INISTECARII</orig> <w n="45"><expan><abbr>d</abbr><ex cert="low">ecreto</ex></expan></w> <roleName type="civic" subtype="decurio"><w n="50"><expan><abbr>d</abbr><ex cert="low">ecurionum</ex></expan></w></roleName>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
-                    <orig n="5">MR MSPRLVCO</orig>
+                    <orig n="5">MRMSPRLVCO</orig>
                     <orig n="10">OCHY</orig>
                     <gap reason="lost" quantity="2" unit="character" n="15"><desc>[-?-]</desc></gap>
                     <orig n="25">C</orig>
