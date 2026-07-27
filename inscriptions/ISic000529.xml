@@ -183,10 +183,10 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <orig n="10">NO</orig><gap reason="lost" extent="unknown" unit="character" n="15"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/> <orig n="25">RANT</orig><gap reason="lost" extent="unknown" unit="character" n="30"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="35"/> <orig n="40">TER</orig><g ref="#interpunct" n="45">·</g> <orig n="50">A</orig><gap reason="lost" extent="unknown" unit="character" n="55"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="60"/> <w n="65"><unclear>M</unclear></w> <g ref="#interpunct" n="70">·</g> <orig n="75">DIC</orig><gap reason="lost" extent="unknown" unit="character" n="80"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><orig n="10">NO</orig><gap reason="lost" extent="unknown" unit="character" n="15"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/><orig n="25">RANT</orig><gap reason="lost" extent="unknown" unit="character" n="30"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="35"/><w part="F" n="40">ter</w> <g ref="#interpunct" n="45">·</g> <w part="I" n="50">a</w><gap reason="lost" extent="unknown" unit="character" n="55"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="60"/><w part="F" n="65"><unclear>m</unclear></w> <g ref="#interpunct" n="70">·</g> <w part="I" n="75">dic</w><gap reason="lost" extent="unknown" unit="character" n="80"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -198,12 +198,12 @@
                     <orig n="25">RANT</orig>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
-                    <orig n="40">TER</orig>
-                    <orig n="50">A</orig>
+                    <w n="40" lemma="NOLEMMA">ter</w>
+                    <W n="50" lemma="NOLEMMA">a</w>
                     <gap reason="lost" extent="unknown" unit="character" n="55"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="60"><desc>[-?-]</desc></gap>
-                    <w n="65" lemma="NOLEMMA">M</w>
-                    <orig n="75">DIC</orig>
+                    <w n="65" lemma="NOLEMMA">m</w>
+                    <w n="75" lemma="NOLEMMA">dic</w>
                     <gap reason="lost" extent="unknown" unit="character" n="80"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
