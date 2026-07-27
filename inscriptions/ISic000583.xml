@@ -187,7 +187,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5">Italicei</w>
+                    <lb n="1"/><placeName type="ethnic"><w n="5">Italicei</w></placeName>
                     <lb n="2"/><persName type="attested"><name><w n="10"><expan><abbr>L</abbr><ex>ucium</ex></expan></w></name> <name><w n="15">Cornelium</w></name> <name><w n="20">Sc<supplied reason="lost">ip</supplied>i<supplied reason="lost">one</supplied>m</w></name></persName>
                     <lb n="3"/><w n="25">honoris</w> <w n="30">caussa</w>
                 </ab>
