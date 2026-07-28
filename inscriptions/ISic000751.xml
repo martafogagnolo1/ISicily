@@ -186,7 +186,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">tori<unclear>s</unclear></w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><w part="F" n="10">tori<unclear>s</unclear></w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
