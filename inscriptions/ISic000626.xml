@@ -178,14 +178,14 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><g ref="#palm" n="5">⸙</g> <w n="10">Pompeianis</w> <g ref="#interpunct" n="15">·</g> <w n="20">vita</w> <g ref="#palm" n="25">⸙</g>
-                    <lb n="2"/><name><w n="30">Ob</w></name> <w n="35">insignem</w> <w n="40">iustitiam</w>
+                    <lb n="2"/><w n="30">ob</w> <w n="35">insignem</w> <w n="40">iustitiam</w>
                     <lb n="3"/><w n="45">et</w> <w n="50">merita</w> <w n="55">litterarum</w> <w n="60">et</w> <w n="65">amorem</w>
                     <lb n="4"/><w n="70">quem</w> <w n="75">non</w> <w n="80">solum</w> <w n="85">circa</w> <w n="90">patriam</w>
                     <lb n="5"/><w n="95">sed</w> <w n="100">per</w> <w n="105">omnem</w> <w n="110">provinci<hi rend="ligature">am</hi></w> <w n="115">c<hi rend="small">o</hi>nl<hi rend="small">o</hi>cavit</w>
                     <lb n="6"/><name><w n="120"><expan><abbr>Iul</abbr><ex>io</ex></expan></w></name> <g ref="#interpunct" n="125">·</g> <name><w n="130"><expan><abbr>Cl</abbr><ex>audio</ex></expan></w></name> <g ref="#interpunct" n="135">·</g> <name><w n="140">Peristerio</w></name> <space extent="unknown" unit="character" n="145"/>
                     <lb n="7"/><name><w n="150">Pompeiano</w></name> <w n="155"><expan><abbr>v</abbr><ex>iro</ex></expan></w> <g ref="#interpunct" n="160">·</g> <roleName type="supracivic" subtype="clarissimus"><w n="165"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <w n="170">ex</w> <roleName type="supracivic" subtype="consularis"><w n="175"><expan><abbr>cons</abbr><ex>ulari</ex></expan></w></roleName> <g ref="#interpunct" n="180">·</g> <w n="185"><expan><abbr>p</abbr><ex>rovinciae</ex></expan></w> <g ref="#interpunct" n="190">·</g> <name><w n="195"><expan><abbr>S</abbr><ex>iciliae</ex></expan></w></name> <g ref="#interpunct" n="200">·</g>
                     <lb n="8"/><w n="205">universa</w> <w n="210">curia</w> <w n="215">in</w> <w n="220">c<hi rend="small">o</hi>etu</w> <w n="225"><choice><sic>splendidu</sic><corr>splendido</corr></choice></w> <g ref="#interpunct" n="230">·</g> <w n="235">suo</w>
-                    <lb n="9"/><roleName type="paracivic" subtype="patronus"><w n="240">patrono</w></roleName> <w n="245">digno</w> <w n="250">et</w> <w n="255"><choice><orig n="260">prestantissimo</orig><reg>praestantissimo</reg></choice></w>
+                    <lb n="9"/><roleName type="paracivic" subtype="patronus"><w n="240">patrono</w></roleName> <w n="245">digno</w> <w n="250">et</w> <w n="255"><choice><orig>prestantissimo</orig><reg>praestantissimo</reg></choice></w>
                     <lb n="10"/><w n="265">statuam</w> <w n="270">conlocavit</w>
                     <lb/><space unit="line" quantity="1" n="275"/>
                     <lb n="11"/><g ref="#palm" n="280">⸙</g> <name><w n="285">Amazoniis</w></name> <w n="290">vita</w> <g ref="#palm" n="295">⸙</g>
@@ -234,7 +234,6 @@
                     <w n="245" lemma="dignus">digno</w>
                     <w n="250" lemma="et">et</w>
                     <w n="255" lemma="praestans">praestantissimo</w>
-                    <orig n="260"/>
                     <w n="265" lemma="statua">statuam</w>
                     <w n="270" lemma="conloco">conlocavit</w>
                     <space unit="line" quantity="1" n="275"/>
