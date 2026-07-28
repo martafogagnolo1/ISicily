@@ -199,7 +199,7 @@
                         <lb n="1"/><name><w n="5"><expan><abbr>Sex</abbr><ex>to</ex></expan></w></name> <name><w n="10">Nonio</w></name>
                         <lb n="2"/><name><w n="15"><expan><abbr>Sex</abbr><ex>ti</ex></expan></w></name> <w n="20"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <orgName><name><w n="25"><expan><abbr>Quir</abbr><ex>ina</ex></expan></w></name></orgName>
                         <lb n="3"/><name><w n="30">Africano</w></name>
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="35"/> <w n="40"><unclear>NPP</unclear></w> <w n="45"><choice><orig n="50">vixsit</orig><reg>vixit</reg></choice></w> <w n="55"><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="28"><w n="60">XXIIX</w></num>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character" n="35"/><orig n="40"><unclear>NPP</unclear></orig> <w n="45"><choice><orig>vixsit</orig><reg>vixit</reg></choice></w> <w n="55"><expan><abbr>a</abbr><ex>nnis</ex></expan></w> <num value="28"><w n="60">XXIIX</w></num>
                     </ab>
                 </div>
                 <div type="textpart" subtype="section" n="b">
@@ -219,12 +219,11 @@
                         <w n="10" lemma="Nonius">Nonio</w>
                         <w n="15" lemma="Sextus">Sexti</w>
                         <w n="20" lemma="filius">filio</w>
-                        <w n="25" lemma="Quirinus">Quirina</w>
+                        <w n="25" lemma="Quirina">Quirina</w>
                         <w n="30" lemma="Africanus">Africano</w>
                         <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
-                        <w n="40" lemma="NOLEMMA">NPP</w>
-                        <w n="45" lemma="vivo">vixit</w>
-                        <orig n="50"/>
+                        <orig n="40">NPP</w>
+                        <w n="45" lemma="vivo">vixsit</w>
                         <w n="55" lemma="annus">annis</w>
                         <w n="60" lemma="XXVIII">XXIIX</w>
                     </ab>
