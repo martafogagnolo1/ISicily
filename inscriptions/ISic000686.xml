@@ -195,21 +195,19 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <name><w n="10"><gap reason="lost" extent="unknown" unit="character" n="15"/><seg part="F">s</seg></w></name> <w n="20"><expan><abbr>l</abbr><ex cert="low">ibertus</ex></expan></w> <name><w n="25"><seg part="I">Fla</seg><gap reason="lost" extent="unknown" unit="character" n="30"/></w></name> <gap reason="lost" extent="unknown" unit="character" n="35"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="40"/> <orig n="45">QUI</orig><gap reason="lost" extent="unknown" unit="character" n="50"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><name><w part="F" n="10">s</w></name> <w n="20"><expan><abbr>l</abbr><ex cert="low">ibertus</ex></expan></w> <name><w part="I" n="25">Fla</w></name><gap reason="lost" extent="unknown" unit="character" n="30"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="40"/><orig n="45">QVI</orig><gap reason="lost" extent="unknown" unit="character" n="50"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <w n="10" lemma="NOLEMMA">[-?-]s</w>
-                    <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
+                    <w n="10" lemma="NOLEMMA">s</w>
                     <w n="20" lemma="libertus">libertus</w>
                     <w n="25" lemma="NOLEMMA">Fla[-?-]</w>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
-                    <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="40"><desc>[-?-]</desc></gap>
-                    <orig n="45">QUI</orig>
+                    <orig n="45">QVI</orig>
                     <gap reason="lost" extent="unknown" unit="character" n="50"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
