@@ -203,7 +203,7 @@
                     <w n="10" lemma="sacer">sacrum</w>
                     <space unit="character" quantity="10" n="15"/>
                     <gap reason="lost" unit="character" extent="unknown" n="25"><desc>[-?-]</desc></gap>
-                    <w n="30" lemma="status">statum</w>
+                    <w n="30" lemma="statua">statum</w>
                     <w n="35" lemma="deus">dei</w>
                     <w n="40" lemma="cum">cum</w>
                     <gap reason="lost" unit="character" extent="unknown" n="45"><desc>[-?-]</desc></gap>
