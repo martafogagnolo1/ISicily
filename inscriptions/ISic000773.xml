@@ -181,7 +181,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10"><supplied reason="lost">Au</supplied>gusti</w> <w n="15">et<space unit="character" quantity="2" n="20"/></w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <name><w n="10"><supplied reason="lost">Au</supplied>gusti</w></name> <w n="15">et</w> <space unit="character" quantity="2" n="20"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="25"/>
                 </ab>
             </div>
