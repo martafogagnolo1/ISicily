@@ -183,10 +183,10 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la">
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#TA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <orig n="10">PITION</orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="15"/> <w n="20">sanus</w> <abbr><orig n="25">D</orig></abbr>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><orig n="10">PITION</orig>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="15"/><w part="F" n="20">sanus</w> <w part="I" n="25">D</w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -194,8 +194,8 @@
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
                     <orig n="10">PITION</orig>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
-                    <w n="20" lemma="sanus">sanus</w>
-                    <orig n="25">D</orig>
+                    <w n="20" lemma="NOLEMMA">sanus</w>
+                    <w n="25" lemma="NOLEMMA">D</w>
                 </ab>
             </div>
             <div type="apparatus">
