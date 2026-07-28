@@ -191,7 +191,7 @@
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <w n="5" lemma="locus">locus</w>
-                    <w n="10" lemma="NOLEMMA">Statili</w>
+                    <w n="10" lemma="Statilius">Statili</w>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
