@@ -189,9 +189,9 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">aelio</w> <gap reason="lost" extent="unknown" unit="character" n="15"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/> <w n="25">mo</w> <w n="30">ma</w> <gap reason="lost" extent="unknown" unit="character" n="35"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="40"/> <w n="45"><unclear>ci</unclear>lio</w> <g ref="#interpunct" n="50">·</g> <name><w n="55">St</w></name> <gap reason="lost" extent="unknown" unit="character" n="60"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><name><w part="F" n="10">aelio</w></name> <gap reason="lost" extent="unknown" unit="character" n="15"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/><w part="F" n="25">mo</w> <w part="I" n="30">ma</w><gap reason="lost" extent="unknown" unit="character" n="35"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="40"/><name><w part="F" n="45"><unclear>ci</unclear>lio</w></name> <g ref="#interpunct" n="50">·</g> <name><w part="I" n="55">St</w></name><gap reason="lost" extent="unknown" unit="character" n="60"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
