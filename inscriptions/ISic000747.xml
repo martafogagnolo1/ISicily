@@ -186,7 +186,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">aeorum</w> <g ref="#ivy-leaf" n="15">❦</g>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><w part="F" n="10">aeorum</w> <g ref="#ivy-leaf" n="15">❦</g>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
