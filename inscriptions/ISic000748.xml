@@ -186,7 +186,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">Alf<unclear>i</unclear>a<hi rend="ligature">ni</hi></w> <w n="15"><hi rend="ligature">et</hi></w> <name><w n="20"><hi rend="ligature">Pi</hi>la<unclear>ti</unclear></w></name>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <name><w n="10">Alf<unclear>i</unclear>a<hi rend="ligature">ni</hi></w></name> <w n="15"><hi rend="ligature">et</hi></w> <name><w n="20"><hi rend="ligature">Pi</hi>la<unclear>ti</unclear></w></name>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
