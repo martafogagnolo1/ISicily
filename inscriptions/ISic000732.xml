@@ -185,7 +185,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#VM">
                 <ab>
-                    <lb n="1"/><w n="5">Locus</w> <name><w n="10"><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <name><w n="15">Lae</w></name> <gap reason="lost" extent="unknown" unit="character" n="20"/>
+                    <lb n="1"/><w n="5">locus</w> <name><w n="10"><expan><abbr>P</abbr><ex>ubli</ex></expan></w></name> <name><w part="I" n="15">Lae</w></name><gap reason="lost" extent="unknown" unit="character" n="20"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
