@@ -196,7 +196,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JH">
                 <ab>
-                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"><roleName type="supracivic" subtype="imperator"><w n="5"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName></supplied> <supplied reason="lost" cert="low"><name><w n="10"><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name></supplied> <supplied reason="lost" cert="low"><name type="praenomen"><w n="15"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name></supplied> <name type="nomen"><w n="20"><orig n="25">Ulp</orig><supplied reason="lost" unit="character">io</supplied></w></name> <supplied reason="lost" cert="low"><name><w n="30">Traiano</w></name></supplied></persName> <gap reason="lost" extent="unknown" unit="character" n="35"/>
+                    <lb n="1"/><persName type="attested"><supplied reason="lost" cert="low"><roleName type="supracivic" subtype="imperator"><w n="5"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w></roleName></supplied> <supplied reason="lost" cert="low"><name><w n="10"><expan><abbr>Caes</abbr><ex>ari</ex></expan></w></name></supplied> <supplied reason="lost" cert="low"><name type="praenomen"><w n="15"><expan><abbr>M</abbr><ex>arco</ex></expan></w></name></supplied> <name type="nomen"><w n="20">Ulp<supplied reason="lost" unit="character">io</supplied></w></name> <supplied reason="lost" cert="low"><name><w n="30">Traiano</w></name></supplied></persName> <gap reason="lost" extent="unknown" unit="character" n="35"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -205,7 +205,6 @@
                     <w n="10" lemma="Caesar">Caesari</w>
                     <w n="15" lemma="Marcus">Marco</w>
                     <w n="20" lemma="Ulpius">Ulpio</w>
-                    <orig n="25">ULP</orig>
                     <w n="30" lemma="Traianus">Traiano</w>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
                 </ab>
