@@ -187,8 +187,8 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AA">
                 <ab>
-                    <lb n="1"/><name><w n="5"><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w n="10"><seg part="I">Va</seg><gap reason="lost" extent="unknown" unit="character" n="15"/></w></name> <gap reason="lost" extent="unknown" unit="character" n="20"/>
-                    <lb n="2"/><name><w n="25"><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w n="30"><seg part="I">Saf<unclear>I</unclear></seg><gap reason="lost" extent="unknown" unit="character" n="35"/></w></name> <gap reason="lost" extent="unknown" unit="character" n="40"/>
+                    <lb n="1"/><name><w n="5"><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w part="I" n="10">Va</w></name><gap reason="lost" extent="unknown" unit="character" n="15"/>
+                    <lb n="2"/><name><w n="25"><expan><abbr>C</abbr><ex>aius</ex></expan></w></name> <name><w part="I" n="30">Saf<unclear>i</unclear></w></name><gap reason="lost" extent="unknown" unit="character" n="35"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -196,11 +196,9 @@
                     <w n="5" lemma="Gaius">Caius</w>
                     <w n="10" lemma="NOLEMMA">Va[-?-]</w>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
-                    <gap reason="lost" extent="unknown" unit="character" n="20"><desc>[-?-]</desc></gap>
                     <w n="25" lemma="Gaius">Caius</w>
-                    <w n="30" lemma="NOLEMMA">SafI[-?-]</w>
+                    <w n="30" lemma="NOLEMMA">Safi[-?-]</w>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
-                    <gap reason="lost" extent="unknown" unit="character" n="40"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
             <div type="apparatus">
