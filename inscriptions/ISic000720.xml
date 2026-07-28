@@ -190,14 +190,14 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#AL">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unkown" unit="character" n="5"/> <g ref="#interpunct" n="10">·</g> <placeName type="ethnic"><w n="15">Cilicum</w></placeName> <g type="interpunct" n="20">·</g> <orig n="25">A</orig><gap reason="lost" extent="unknown" unit="character" n="30"/>
+                    <lb n="1"/><gap reason="lost" extent="unkown" unit="character" n="5"/> <g ref="#interpunct" n="10">·</g> <placeName type="ethnic"><w n="15">Cilicum</w></placeName> <g type="interpunct" n="20">·</g> <w part="I" n="25">A</w><gap reason="lost" extent="unknown" unit="character" n="30"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unkown" unit="character" n="5"><desc>[-?-]</desc></gap>
                     <w n="15" lemma="Cilicus">Cilicum</w>
-                    <orig n="25">A</orig>
+                    <w n="25" lemma="NOLEMMA">A</orig>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
