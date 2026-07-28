@@ -180,7 +180,7 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10"><supplied reason="lost">quae</supplied></w>
-                    <lb n="1"/><w n="15">vixit</w> <name><w n="20"><g ref="#interpunct" n="25">·</g><supplied reason="lost">annis</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" n="30"/>
+                    <lb n="1"/><w n="15">vixit</w> <g ref="#interpunct" n="20">·</g> <name><w n="25"><supplied reason="lost">annis</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" n="30"/>
                     <lb n="2"/><name><w n="35"><expan><abbr>T</abbr><ex>itus</ex></expan></w></name> <g ref="#interpunct" n="40">·</g> <name><w n="45">Flabiu<supplied reason="lost">s</supplied></w></name> <gap reason="lost" extent="unknown" unit="character" n="50"/>
                     <lb n="3"/><w n="55"><expan><abbr>ux</abbr><ex>ori</ex></expan></w> <g ref="#interpunct" n="60">·</g> <w n="65">pi<hi rend="tall">i</hi>s<unclear>s</unclear><supplied reason="lost">imae</supplied></w> <w n="70"><supplied reason="lost" cert="low">fecit</supplied></w>
                 </ab>
@@ -190,7 +190,7 @@
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
                     <w n="10" lemma="qui">quae</w>
                     <w n="15" lemma="vivo">vixit</w>
-                    <w n="20" lemma="annus">annis</w>
+                    <w n="25" lemma="annus">annis</w>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                     <w n="35" lemma="Titus">Titus</w>
                     <w n="45" lemma="Flavius">Flabius</w>
