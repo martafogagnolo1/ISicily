@@ -197,8 +197,8 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">x</w> <g ref="#interpunct" n="15">·</g> <w n="20">tr</w> <gap reason="lost" extent="unknown" unit="character" n="25"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="30"/> <w n="35"><unclear>v</unclear>etust</w> <gap reason="lost" extent="unknown" unit="character" n="40"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><num atLeast="10"><w n="10">x</w></num> <g ref="#interpunct" n="15">·</g> <w part="I" n="20">tr</w> <gap reason="lost" extent="unknown" unit="character" n="25"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="30"/> <w part="I" n="35"><unclear>v</unclear>etust</w><gap reason="lost" extent="unknown" unit="character" n="40"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -208,7 +208,7 @@
                     <w n="20" lemma="NOLEMMA">tr</w>
                     <gap reason="lost" extent="unknown" unit="character" n="25"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
-                    <w n="35" lemma="NOLEMMA">vetust</w>
+                    <w n="35" lemma="vetustas">vetust</w>
                     <gap reason="lost" extent="unknown" unit="character" n="40"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
