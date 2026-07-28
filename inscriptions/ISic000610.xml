@@ -122,7 +122,7 @@
                             <origDate datingMethod="#julian" notBefore-custom="-0252" notAfter-custom="-0248">252-248 BCE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" when="1954-10-09">Found in contrada Zuccarone, to the East of modern Corleone, by farm-workers on the southern side of a trackway (overall running north-south, but bending east-west at this specific point)<geo>37.8054867,13.3542511</geo>. Now on display in the Corleone Museo Civico.</provenance>
-                        <provenance type="observed" subtype="autopsied" resp="#JP">2002.06.30 and 2023.10.28 (Prag)</provenance>
+                        <provenance type="observed" subtype="autopsied" resp="#JP" xml:id="autopsy">2002.06.30 and 2023.10.28 (Prag)</provenance>
                         <acquisition/>
                     </history>
                 </msDesc>
@@ -218,10 +218,10 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP" source="#autopsy">
                 <ab>
-                    <lb n="1"/><w n="5"><supplied reason="lost"><expan><abbr>C</abbr><ex>aius</ex></expan></supplied></w> <name><w n="10"><supplied reason="lost">A</supplied>urelius</w></name>
-                    <lb n="2"/><name><w n="15"><supplied reason="lost"><expan><abbr>L</abbr><ex>uci</ex></expan></supplied></w></name> <w n="20"><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <name><w n="25">Cottas</w></name>
+                    <lb n="1"/><persName type="attested"><name><w n="5"><supplied reason="lost"><expan><abbr>C</abbr><ex>aius</ex></expan></supplied></w></name> <name><w n="10"><supplied reason="lost">A</supplied>urelius</w></name>
+                    <lb n="2"/><name><w n="15"><supplied reason="lost"><expan><abbr>L</abbr><ex>uci</ex></expan></supplied></w></name> <w n="20"><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w> <name><w n="25">Cottas</w></name></persName>
                     <lb n="3"/><roleName type="supracivic" subtype="consul"><w n="30"><supplied reason="lost">c</supplied>onsol</w></roleName> <g ref="#interpunct" n="35">·</g>
                     <lb n="4"/><num value="57"><w n="40">ↆVII</w></num>
                 </ab>
