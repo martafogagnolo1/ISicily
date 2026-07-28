@@ -76,8 +76,7 @@
                             <supportDesc>
                                 <support>
                                     <p>Block of moulding with dentils from a monumental architrave</p>
-                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble.calcitic_marble.Lunense" type="stone.marble" subtype="Lunense" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">
-                                        Very fine to fine-grained, spotted, white, calcitic marble, likely Lunense. Optical microscopy: homeoblastic fabric with triple points. Digital microscopy: homeoblastic fabric (identification based on pXRF, digital microscopy, XRD, optical microscopy)<placeName type="provenance">
+                                    <material ana="#material.inorganic.stone.metamorphic_rock.marble.calcitic_marble.Lunense" type="stone.marble" subtype="Lunense" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/48.html">Very fine to fine-grained, spotted, white, calcitic marble, likely Lunense. Optical microscopy: homeoblastic fabric with triple points. Digital microscopy: homeoblastic fabric (identification based on pXRF, digital microscopy, XRD, optical microscopy)<placeName type="provenance">
                                             <ref target="https://www.geonames.org/6542087/carrara.html">Carrara</ref>
                                             <location>
                                                 <geo>44.06294,10.06069</geo>
@@ -228,7 +227,7 @@
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <w n="5" lemma="aditus">aditus</w>
-                    <w n="10" lemma="tabulari">tabularii</w>
+                    <w n="10" lemma="tabularius">tabularii</w>
                     <w n="15" lemma="civitas">civitatis</w>
                 </ab>
             </div>
@@ -243,7 +242,7 @@
                 <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
             </div>
             <div type="commentary">
-                <p>Although Manganaro resolved as [?Aditu]s Tab(ularii) civ(itatis), as currently presented here (cf.ANRW 1988, p.38 n.180-181), this should surely be understood as a quarry mark, and requires fresh resolution.</p>
+                <p>Although Manganaro resolved this text as [?Aditu]s Tab(ularii) civ(itatis), as currently presented here (cf.ANRW 1988, p.38 n.180-181), this cannot be right, and must surely be understood as a quarry mark.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
