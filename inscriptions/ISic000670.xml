@@ -237,7 +237,8 @@
             <div type="bibliography">
                 <listBibl type="edition">
                     <bibl type="bulletin" n="AE">
-                        <citedRange>1989.0337</citedRange>
+                        <date>1989</date>
+                        <citedRange>337</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
                     </bibl>
