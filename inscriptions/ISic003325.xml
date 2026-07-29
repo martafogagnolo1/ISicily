@@ -183,9 +183,9 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
                     <lb n="1"/><persName type="attested"><name type="praenomen"><w n="5"><expan><abbr>L</abbr><ex>ucius</ex></expan></w></name> <g ref="#interpunct" n="10">·</g> <name type="nomen"><w n="15">Caecilius</w></name> <g ref="#interpunct" n="20">·</g> <persName type="attested"><name type="patronym"><w n="25"><expan><abbr>A</abbr><ex>uli</ex></expan></w></name></persName> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <g ref="#interpunct" n="40">·</g> <name type="cognomen"><w n="45">Martiales</w></name>
-                    <lb n="2"/><name type="cognomen"><w n="50"><choice><orig n="55">Apetaius</orig><reg>Aretaius</reg></choice></w></name></persName> <g ref="#interpunct" n="60">·</g> <roleName type="supracivic" subtype="praefectus"><w n="65">praefectus</w></roleName>
+                    <lb n="2"/><name type="cognomen"><w n="50"><choice><orig>Apetaius</orig><reg>Aretaius</reg></choice></w></name></persName> <g ref="#interpunct" n="60">·</g> <roleName type="supracivic" subtype="praefectus"><w n="65">praefectus</w></roleName>
                     <lb n="3"/><w n="70">deos</w> <g ref="#interpunct" n="75">·</g> <w n="80">forenses</w> <g ref="#interpunct" n="85">·</g> <w n="90">reposuit</w> <w n="95">templum
-                    <lb n="4" break="no"/>que</w> <g ref="#interpunct" n="100">·</g> <w n="105">eis</w> <g ref="#interpunct" n="110">·</g> <w n="115">sua</w> <g ref="#interpunct" n="120">·</g> <w n="125"><choice><orig n="130">pequnia</orig><reg>pecunia</reg></choice></w> <g ref="#interpunct" n="135">·</g> <w n="140">adornavit</w>
+                    <lb n="4" break="no"/>que</w> <g ref="#interpunct" n="100">·</g> <w n="105">eis</w> <g ref="#interpunct" n="110">·</g> <w n="115">sua</w> <g ref="#interpunct" n="120">·</g> <w n="125"><choice><orig>pequnia</orig><reg>pecunia</reg></choice></w> <g ref="#interpunct" n="135">·</g> <w n="140">adornavit</w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -195,8 +195,7 @@
                     <w n="25" lemma="Aulus">Auli</w>
                     <w n="35" lemma="filius">filius</w>
                     <w n="45" lemma="Martialis">Martiales</w>
-                    <w n="50" lemma="Aretaius">Aretaius</w>
-                    <orig n="55"/>
+                    <w n="50" lemma="Aretaius">Apetaius</w>
                     <w n="65" lemma="praefectus">praefectus</w>
                     <w n="70" lemma="deus">deos</w>
                     <w n="80" lemma="forensis">forenses</w>
@@ -204,8 +203,7 @@
                     <w n="95" lemma="templum">templumque</w>
                     <w n="105" lemma="is">eis</w>
                     <w n="115" lemma="suus">sua</w>
-                    <w n="125" lemma="pecunia">pecunia</w>
-                    <orig n="130"/>
+                    <w n="125" lemma="pecunia">pequnia</w>
                     <w n="140" lemma="adorno">adornavit</w>
                 </ab>
             </div>
