@@ -378,17 +378,20 @@
             <div type="bibliography">
                 <listBibl type="edition">
                     <bibl type="bulletin" n="AE">
-                        <citedRange>1990.0437</citedRange>
+                        <date>1990</date>
+                        <citedRange>437</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
                     </bibl>
                     <bibl type="bulletin" n="AE">
-                        <citedRange>1989.0347</citedRange>
+                        <date>1989</date>
+                        <citedRange>347</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
                     </bibl>
                     <bibl type="bulletin" n="AE">
-                        <citedRange>1966.0165</citedRange>
+                        <date>1966</date>
+                        <citedRange>165</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/R46KDTZX"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001283">https://biblio.inscriptiones.org/epig10001283</ref>
                     </bibl>
