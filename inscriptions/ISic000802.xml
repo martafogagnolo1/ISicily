@@ -119,7 +119,7 @@
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0100" evidence="lettering">1st century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">Excavated 9 September 1970, on the pavement of the west portico of the agora, in front of room 2</provenance>
-                        <provenance type="observed" subtype="autopsied" resp="#JP">2011-06-15</provenance>
+                        <provenance type="observed" subtype="autopsied" resp="#JP" xml:id="autopsy">2011-06-15</provenance>
                         <acquisition/>
                     </history>
                 </msDesc>
@@ -192,7 +192,7 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP" source="#autopsy">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">equ<unclear>o</unclear></w> <gap reason="lost" extent="unknown" unit="character" n="15"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/> <w n="25">basili<unclear>c</unclear><supplied reason="lost">a</supplied></w> <gap reason="lost" extent="unknown" unit="character" n="30"/>
@@ -205,7 +205,7 @@
                     <w n="10" lemma="equus">equo</w>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="20"><desc>[-?-]</desc></gap>
-                    <w n="25" lemma="basilicus">basilica</w>
+                    <w n="25" lemma="basilica">basilica</w>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
                     <w n="40" lemma="opus">operibus</w>
