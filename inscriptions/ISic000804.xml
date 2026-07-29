@@ -230,7 +230,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5">Cereri</w> <w n="10"><expan><abbr>sacr</abbr><ex>um</ex></expan></w> <space unit="character" quantity="1" n="15"/> <name><w n="20">Iulius</w></name> <name><w n="25">Acilius</w></name> <name><w n="30">Her
+                    <lb n="1"/><name><w n="5">Cereri</w></name> <w n="10"><expan><abbr>sacr</abbr><ex>um</ex></expan></w> <space unit="character" quantity="1" n="15"/> <name><w n="20">Iulius</w></name> <name><w n="25">Acilius</w></name> <name><w n="30">Her
                     <lb n="2" break="no"/>mes</w></name> <g ref="#interpunct" n="35">·</g> <w n="40">pro</w> <w n="45"><expan><abbr>honor</abbr><ex>e</ex></expan></w> <roleName type="civic.religious" subtype="seviratus"><w n="50">seviratus</w></roleName> <g ref="#ivy-leaf" n="55">❦</g> <w n="60"><expan><abbr>d</abbr><ex>eae</ex></expan></w> <w n="65"><expan><abbr>d</abbr><ex>onum</ex></expan></w> <w n="70"><expan><abbr>d</abbr><ex>edit</ex></expan></w>
                 </ab>
             </div>
