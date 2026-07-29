@@ -168,8 +168,8 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5"><abbr>L</abbr></w> <name><w n="10"><abbr>L</abbr></w></name> <name><w n="15"><abbr>D</abbr></w></name> <name><w n="20">Augusto</w></name> <w n="25">sacrum</w> <w n="30">et</w> <w n="35">genio</w> <w n="40">civitatis</w>
-                    <lb n="2"/><w n="45">populus</w> <name><w n="50"><expan><abbr>Drepanit</abbr><ex>orum</ex></expan></w></name>
+                    <lb n="1"/><w n="5"><abbr>L</abbr></w> <w n="10"><abbr>L</abbr></w> <w n="15"><abbr>D</abbr></w> <name><w n="20">Augusto</w></name> <w n="25">sacrum</w> <w n="30">et</w> <w n="35">genio</w> <w n="40">civitatis</w>
+                    <lb n="2"/><w n="45">populus</w> <placeName type="ethnic"><w n="50"><expan><abbr>Drepanit</abbr><ex>orum</ex></expan></w></placeName>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
