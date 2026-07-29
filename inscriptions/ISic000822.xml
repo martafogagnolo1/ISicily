@@ -390,12 +390,14 @@
                         <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref>
                     </bibl>
                     <bibl type="bulletin" n="BE">
-                        <citedRange>1983.0495</citedRange>
+                        <date>1983</date>
+                        <citedRange>495</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/77P5MNIR"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001282">https://biblio.inscriptiones.org/epig10001282</ref>
                     </bibl>
                     <bibl type="bulletin" n="BE">
-                        <citedRange>1982.0507</citedRange>
+                        <date>1982</date>
+                        <citedRange>507</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/77P5MNIR"/>
                         <ref target="https://biblio.inscriptiones.org/epig10001282">https://biblio.inscriptiones.org/epig10001282</ref>
                     </bibl>
