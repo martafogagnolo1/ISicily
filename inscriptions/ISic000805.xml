@@ -190,16 +190,15 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <w n="10">idi</w> <w n="15"><unclear>o</unclear></w> <gap reason="lost" quantity="1" unit="character" n="20"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="25"/> <w n="30"><unclear>o</unclear></w> <roleName type="supracivic" subtype="proconsul"><w n="35"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <roleName type="supracivic" subtype="clarissimus"><w n="40"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct" n="45">·</g> <w n="50"><expan><abbr>v</abbr><ex>iro</ex></expan></w>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="55"/> <gap reason="illegible" quantity="2" unit="character" n="60"/> <w n="65"><unclear>i</unclear></w> <w n="70">optimo</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><name><w part="F" n="10">idi<unclear>o</unclear></w></name> <gap reason="lost" quantity="1" unit="character" n="20"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="25"/><w part="F" n="30"><unclear>o</unclear></w> <roleName type="supracivic" subtype="proconsul"><w n="35"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w></roleName> <roleName type="supracivic" subtype="clarissimus"><w n="40"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w></roleName> <g ref="#interpunct" n="45">·</g> <w n="50"><expan><abbr>v</abbr><ex>iro</ex></expan></w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character" n="55"/><gap reason="illegible" quantity="2" unit="character" n="60"/><w part="F" n="65"><unclear>i</unclear></w> <w n="70">optimo</w>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <w n="10" lemma="NOLEMMA">idi</w>
-                    <w n="15" lemma="NOLEMMA">o</w>
+                    <w n="10" lemma="NOLEMMA">idio</w>
                     <gap reason="lost" quantity="1" unit="character" n="20"><desc>[.]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="25"><desc>[-?-]</desc></gap>
                     <w n="30" lemma="NOLEMMA">o</w>
