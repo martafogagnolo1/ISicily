@@ -186,27 +186,27 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <div type="textpart" subtype="fragment-physical" n="a">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <space unit="character" quantity="3" n="10"/> <orig n="15">AED</orig><gap reason="lost" extent="unknown" unit="character" n="20"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/> <space unit="character" quantity="3" n="10"/> <w part="I" n="15">aed</w><gap reason="lost" extent="unknown" unit="character" n="20"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="b">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="25"/> <space unit="character" quantity="1" n="30"/> <orig n="35">P</orig><g ref="#interpunct" n="40">·</g> <gap reason="lost" extent="unknown" unit="character" n="45"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="25"/> <space unit="character" quantity="1" n="30"/> <w n="35"><abbr>P</abbr></w> <g ref="#interpunct" n="40">·</g> <gap reason="lost" extent="unknown" unit="character" n="45"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="c">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="50"/> <orig n="55">VS</orig><g ref="#interpunct" n="60">·</g> <space unit="character" quantity="1" n="65"/> <gap reason="lost" extent="unknown" unit="character" n="70"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="50"/><w part="F" n="55">us</w> <g ref="#interpunct" n="60">·</g> <space unit="character" quantity="1" n="65"/><gap reason="lost" extent="unknown" unit="character" n="70"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="d">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="75"/> <orig n="80">H</orig><g ref="#ivy-leaf" n="85">❦</g> <orig n="90">V</orig><g ref="#ivy-leaf" n="95">❦</g> <orig n="100">GALLO</orig><gap reason="lost" extent="unknown" unit="character" n="105"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="75"/><orig n="80">H</orig> <g ref="#ivy-leaf" n="85">❦</g> <num value="5"><w n="90">V</w></num> <g ref="#ivy-leaf" n="95">❦</g> <w part="I" n="100">Gallo</w><gap reason="lost" extent="unknown" unit="character" n="105"/>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="e">
                     <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="110"/> <orig n="115">D</orig><gap reason="lost" extent="unknown" unit="character" n="120"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="110"/><orig n="115">D</orig><gap reason="lost" extent="unknown" unit="character" n="120"/>
                     </ab>
                 </div>
             </div>
@@ -215,7 +215,7 @@
                     <ab>
                         <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
                         <space unit="character" quantity="3" n="10"/>
-                        <orig n="15">AED</orig>
+                        <w n="15" lemma="NOLEMMA">aed</w>
                         <gap reason="lost" extent="unknown" unit="character" n="20"><desc>[-?-]</desc></gap>
                     </ab>
                 </div>
@@ -223,14 +223,14 @@
                     <ab>
                         <gap reason="lost" extent="unknown" unit="character" n="25"><desc>[-?-]</desc></gap>
                         <space unit="character" quantity="1" n="30"/>
-                        <orig n="35">P</orig>
+                        <w n="35" lemma="NOLEMMA">P</w>
                         <gap reason="lost" extent="unknown" unit="character" n="45"><desc>[-?-]</desc></gap>
                     </ab>
                 </div>
                 <div type="textpart" subtype="fragment-physical" n="c">
                     <ab>
                         <gap reason="lost" extent="unknown" unit="character" n="50"><desc>[-?-]</desc></gap>
-                        <orig n="55">VS</orig>
+                        <w lemma="NOLEMMA" n="55">us</w>
                         <space unit="character" quantity="1" n="65"/>
                         <gap reason="lost" extent="unknown" unit="character" n="70"><desc>[-?-]</desc></gap>
                     </ab>
@@ -239,8 +239,8 @@
                     <ab>
                         <gap reason="lost" extent="unknown" unit="character" n="75"><desc>[-?-]</desc></gap>
                         <orig n="80">H</orig>
-                        <orig n="90">V</orig>
-                        <orig n="100">GALLO</orig>
+                        <w n="90" lemma="V">V</w>
+                        <w n="100" lemma="NOLEMMA">Gallo</w>
                         <gap reason="lost" extent="unknown" unit="character" n="105"><desc>[-?-]</desc></gap>
                     </ab>
                 </div>
