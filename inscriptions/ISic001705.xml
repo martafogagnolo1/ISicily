@@ -169,7 +169,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5">municipium</w> <name><w n="10">Alaesinum</w></name>
+                    <lb n="1"/><w n="5">municipium</w> <placeName type="ethnic"><w n="10">Alaesinum</w></placeName>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
