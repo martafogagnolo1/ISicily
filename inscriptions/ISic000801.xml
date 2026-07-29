@@ -204,7 +204,7 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="la" resp="#JP" source="#autopsy">
                 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character" n="5"/><name><w part="M" n="10">ciliu</w></name><gap reason="lost" extent="unknown" unit="character" n="15"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/><orig n="25">R</> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>s</abbr><ex>ua</ex></expan></w> <g ref="#interpunct" n="40">·</g> <w n="45"><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <g ref="#interpunct" n="50">·</g> <w part="I" n="55"><unclear>o</unclear></w><gap reason="lost" extent="unknown" unit="character" n="60"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character" n="20"/><orig n="25">R</orig> <g ref="#interpunct" n="30">·</g> <w n="35"><expan><abbr>s</abbr><ex>ua</ex></expan></w> <g ref="#interpunct" n="40">·</g> <w n="45"><expan><abbr>p</abbr><ex>ecunia</ex></expan></w> <g ref="#interpunct" n="50">·</g> <w part="I" n="55"><unclear>o</unclear></w><gap reason="lost" extent="unknown" unit="character" n="60"/>
                 </ab>
             </div>
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
@@ -213,7 +213,7 @@
                     <w n="10" lemma="NOLEMMA">ciliu</w>
                     <gap reason="lost" extent="unknown" unit="character" n="15"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="20"><desc>[-?-]</desc></gap>
-                    <orig n="25">R</w>
+                    <orig n="25">R</orig>
                     <w n="35" lemma="suus">sua</w>
                     <w n="45" lemma="pecunia">pecunia</w>
                     <w n="55" lemma="NOLEMMA">ino</w>

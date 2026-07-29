@@ -222,7 +222,7 @@
                         <w n="25" lemma="Quirina">Quirina</w>
                         <w n="30" lemma="Africanus">Africano</w>
                         <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
-                        <orig n="40">NPP</w>
+                        <orig n="40">NPP</orig>
                         <w n="45" lemma="vivo">vixsit</w>
                         <w n="55" lemma="annus">annis</w>
                         <w n="60" lemma="XXVIII">XXIIX</w>

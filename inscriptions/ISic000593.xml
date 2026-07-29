@@ -201,7 +201,7 @@
                     <w n="55" lemma="libertus">liberto</w>
                     <w n="60" lemma="Optatus">Optato</w>
                     <w n="65" lemma="Sempronia">Sempronia</w>
-                    <w n="75" lemma="NOLEMMA">D</orig>
+                    <w n="75" lemma="NOLEMMA">D</w>
                     <gap reason="lost" extent="unknown" unit="character" n="80"><desc>[-?-]</desc></gap>
                 </ab>
             </div>

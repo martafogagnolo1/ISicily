@@ -199,7 +199,7 @@
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
                     <w n="40" lemma="NOLEMMA">ter</w>
-                    <W n="50" lemma="NOLEMMA">a</w>
+                    <w n="50" lemma="NOLEMMA">a</w>
                     <gap reason="lost" extent="unknown" unit="character" n="55"><desc>[-?-]</desc></gap>
                     <gap reason="lost" extent="unknown" unit="character" n="60"><desc>[-?-]</desc></gap>
                     <w n="65" lemma="NOLEMMA">m</w>

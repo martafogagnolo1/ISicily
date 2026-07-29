@@ -192,7 +192,7 @@
             <div type="edition" subtype="simple-lemmatized" resp="#RC">
                 <ab>
                     <gap reason="lost" extent="unknown" unit="character" n="5"><desc>[-?-]</desc></gap>
-                    <orig n="10">I</w>
+                    <orig n="10">I</orig>
                     <w n="20" lemma="Titus">Titi</w>
                     <w n="30" lemma="filius">filius</w>
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>

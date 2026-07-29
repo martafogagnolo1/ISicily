@@ -197,7 +197,7 @@
                 <ab>
                     <gap reason="lost" extent="unkown" unit="character" n="5"><desc>[-?-]</desc></gap>
                     <w n="15" lemma="Cilicus">Cilicum</w>
-                    <w n="25" lemma="NOLEMMA">A</orig>
+                    <w n="25" lemma="NOLEMMA">A</w>
                     <gap reason="lost" extent="unknown" unit="character" n="30"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
