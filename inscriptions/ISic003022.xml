@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Funerary altar for Hippo</title>
+                <title>Funerary altar with epigram for Hippo</title>
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
@@ -40,6 +40,7 @@
                     <name xml:id="ZG" ref="https://orcid.org/0009-0008-0871-248X">Zoe Greblunas</name> 
                     <resp>named entity annotation</resp> 
                 </respStmt> 
+            <respStmt><name xml:id="Coccato" ref="https://orcid.org/0000-0002-6641-2820">Alessia Coccato</name><resp>Petrographic observation and analysis</resp></respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -52,9 +53,7 @@
                 <idno type="URI">http://sicily.classics.ox.ac.uk/inscription/ISic003022</idno>
                 <idno type="DOI" when="2020-12-23">10.5281/zenodo.4387985</idno>
                 <availability>
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative
-                        Commons-Attribution 4.0 licence.
-                    </licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">Licensed under a Creative Commons-Attribution 4.0 licence.</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
@@ -80,7 +79,7 @@
                             <supportDesc>
                                 <support>
                                     <p>Altar in the local limestone, surmounted by a cornice, the text on the front face.</p>
-                                    <material type="inorganic.stone" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/66.html">limestone</material>
+                                    <material ana="#material.inorganic.stone.sedimentary_rock.limestone.calcarenite.whitish" type="stone.limestone.non-polishable.whitish" subtype="unspecified" resp="#Coccato" ref="http://www.eagle-network.eu/voc/material/lod/66.html">limestone</material>
                                     <objectType ana="#object.altar" ref="http://www.eagle-network.eu/voc/objtyp/lod/29.html">altar</objectType>
                                     <dimensions><!--Default values and requires editing-->
                                         <height unit="cm">25</height>
@@ -182,11 +181,11 @@
     </teiHeader>
     <facsimile>
         <surface type="front">
-            <graphic n="screen" url="ISic003022_tiled.tif" height="3680px" width="5520px">
-                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            <graphic n="screen" url="ISic003022_tiled.tif" height="2304px" width="3072px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2008-09-28</desc>
             </graphic>
-            <graphic n="print" url="ISic003022.jpg" height="3680px" width="5520px">
-                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana</desc>
+            <graphic n="print" url="ISic003022.jpg" height="2304px" width="3072px">
+                <desc>I.Sicily with the permission of the Assessorato Regionale dei Beni Culturali e dell’Identità Siciliana - Dipartimento dei Beni Culturali e dell’Identità Siciliana; photo J. Prag 2008-09-28</desc>
             </graphic>
         </surface>
     </facsimile>
@@ -224,7 +223,7 @@
             <div type="translation" xml:lang="en" resp="#VM">
                 <p>Honouring wisdom and venerating justice, in his youth Hippò left the breath of life.</p>
             </div>
-            <div type="translation" xml:lang="it">
+            <div type="translation" xml:lang="it" resp="#VM">
                 <p>Guarducci: Onorando la saggezza e venerando la giustizia, Hippò in gioventù il soffio lasciò della vita.</p>
             </div>
             <div type="commentary">
@@ -234,6 +233,7 @@
             <div type="bibliography">
                 <listBibl type="edition">
                     <bibl type="bulletin" n="SEG">
+                        <date>1992</date>
                         <citedRange>42.0848</citedRange>
                         <ptr target="https://www.zotero.org/groups/382445/items/F2GG87EQ"/>
                         <ref target="https://biblio.inscriptiones.org/epig10000796">https://biblio.inscriptiones.org/epig10000796</ref>
