@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>I.Sicily inscription 001337</title>
+                <title>Fragment of an inscription</title>
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
@@ -26,6 +26,11 @@
                     <name xml:id="AA" ref="http://orcid.org/0000-0001-7077-0703">Alex Antoniou</name>
                     <resp>Epidoc editing</resp>
                 </respStmt>
+                <respStmt>
+                    <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
+                    <resp>check encoded text and add commentary</resp>
+                </respStmt>
+                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -64,7 +69,7 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>
+                                <support><p>A square block of black stone.</p>
                                     <material type="inorganic.stone" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/16.html" cert="low">basalt</material>
                                     <dimensions><!--Default values and requires editing-->
                                         <height unit="cm"/>
@@ -104,6 +109,7 @@
                             <origDate datingMethod="#julian" cert="low">(?)</origDate>
                         </origin>
                         <provenance type="found">Original discovery not recorded.</provenance>
+                        <provenance type="found">Found in 1634 “in alcune rovine del Corso” (Carrera 1639, 290).</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -158,6 +164,7 @@
         	    <change when="2020-12-22" who="#JP">Updated Zenodo DOI</change>
             	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-06-04" who="#AA">Epidoc editing</change>
+                <change when="2026-08-03" who="#martaf">Marta Fogagnolo revised the text encoding, added the commentary</change>
 	</listChange>
         </revisionDesc>
     </teiHeader>
@@ -175,7 +182,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><orig>ΠΟΛ</orig><gap reason="illegible" quantity="1" unit="character"/><orig>ΛΙΒ</orig>
+                    <lb n="1"/>ΠΟ<orig>Λ</orig><gap reason="illegible" quantity="1" unit="character"/><orig>ΛΙ</orig>Β
                 </ab>
             </div>
             <div type="apparatus">
@@ -184,9 +191,10 @@
             <div type="translation">
                 <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
             </div>
-            <div type="commentary">
+            <div type="commentary" resp="#martaf">
                 <p><!--commented out pending revision-->
-                    <!--large square block. Simply reads POL . LIB--></p>
+                    <!--large square block. Simply reads POL . LIB-->
+                    The stone is too fragmentary to allow any firm conclusions regarding its content. Carrera (1639, 290), however, believed that he could identify a reference to the war between the Catanians and the Libyans.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
@@ -199,6 +207,13 @@
                         <ptr target="https://www.zotero.org/groups/382445/items/Q2SBPG9F"/>
                     <ref target="https://biblio.inscriptiones.org/epig10001072">https://biblio.inscriptiones.org/epig10001072</ref></bibl>
                     <bibl/>
+                    <bibl>
+                        <author>Carrera</author>
+                        <date>1963</date>
+                        <citedRange>290</citedRange>
+                        <ptr target="http://zotero.org/groups/382445/items/JPVJSTWU"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002755">https://biblio.inscriptiones.org/epig10002755</ref>
+                    </bibl>
                 </listBibl>
 	   <listBibl type="discussion"><bibl/></listBibl>
             </div>
