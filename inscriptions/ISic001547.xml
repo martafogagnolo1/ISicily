@@ -31,7 +31,6 @@
                     <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
                     <resp>check encoded text, translation and commentary</resp>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -93,7 +92,7 @@
                             <handNote><p>Lunate Σ and Ε, cursive Μ and Ω.</p><!--Default value and requires editing-->
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">15-25</height>
+                                    <height unit="mm" atLeast="15" atMost="25">15-25</height>
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
@@ -166,7 +165,8 @@
 		<change when="2020-11-26" who="#SS">Simona Stoyanova restructured bibliography</change>
 	    <change when="2020-12-18" who="#JP">Updated Zenodo DOI</change>
             	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
-                <change when="2025-12-18" who="#ZG">Zoe Greblunas tagged names and persons</change> <change when="2026-08-03" who="#martaf">Marta Fogagnolo revised the text encoding, added the translation and the commentary</change>
+                <change when="2025-12-18" who="#ZG">Zoe Greblunas tagged names and persons</change>
+				<change when="2026-08-03" who="#martaf">Marta Fogagnolo revised the text encoding, added the translation and the commentary</change>
 	</listChange>
         </revisionDesc>
     </teiHeader>
@@ -191,14 +191,13 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p><!--external apparatus criticus (if applicable)--></p>
+                <listApp><app><note>Text checked against photograph, and as per IGPalermo</note></app></listApp>
             </div>
             <div type="translation" xml:lang="en" resp="#martaf">
                 <p>Purchase of a loculus by Zosimianos.</p>
             </div>
-            <div type="commentary">
-                <p><!--commented out pending revision-->
-                    <!--hebrew, as evidenced by the 7 branched candelabra below the inscr. use of agoraseia; tomb of Zosimianos.-->The inscription records the purchase of a tomb by the deceased Zosimianos (the name is not attested elsewhere in Sicily, for the form <foreign xml:lang="grc">Ζώσιμος</foreign>, see LGPN IIIA 191). The purchase is expressed by the noun <foreign xml:lang="grc">ἀγορασεία</foreign>, a term attested at Catania (see IG XIV 530b, 552; SEG IV 60; Libertini 1931, 369 no. 1). The burial place was most likely a loculus, as suggested by the small dimensions of the slab, and is designated by the term <foreign xml:lang="grc">ἔμβασις</foreign> (for this term at Catania, see IGCVO 866; SEG XLVI 1261; IMusCatania 176; cf. Ferrua 1958, 172). Formulae expressing the purchase of a tomb by means of <foreign xml:lang="grc">ἀγορασία</foreign> followed by the genitive of the purchaser's—or, in funerary contexts, the deceased's—name are particularly common at Syracuse, but are also attested at Catania (SEG IV 60). In the present inscription, the genitive of the object purchased also appears, as is perhaps likewise the case in Libertini 1931, 369 no. 1 (see Korhonen 2004, 109 n. 152). The menorah engraved at the end of the inscription identifies it as belonging to the corpus of Jewish inscriptions. For the Jewish presence in Sicily, and particularly at Catania, during Late Antiquity, see Gebbia 1996.</p>
+            <div type="commentary" resp="#martaf">
+                <p>The inscription records the purchase of a tomb by the deceased Zosimianos (the name is not attested elsewhere in Sicily, for the form <foreign xml:lang="grc">Ζώσιμος</foreign>, see LGPN IIIA 191). The purchase is expressed by the noun <foreign xml:lang="grc">ἀγορασεία</foreign>, a term attested at Catania (see IG XIV 530b, 552; SEG IV 60; Libertini 1931, 369 no. 1). The burial place was most likely a loculus, as suggested by the small dimensions of the slab, and is designated by the term <foreign xml:lang="grc">ἔμβασις</foreign> (for this term at Catania, see IGCVO 866; SEG XLVI 1261; IMusCatania 176; cf. Ferrua 1958, 172). Formulae expressing the purchase of a tomb by means of <foreign xml:lang="grc">ἀγορασία</foreign> followed by the genitive of the purchaser's — or, in funerary contexts, the deceased's — name are particularly common at Syracuse, but are also attested at Catania (SEG IV 60). In the present inscription, the genitive of the object purchased also appears, as is perhaps likewise the case in Libertini 1931, 369 no. 1 (see Korhonen 2004, 109 n. 152). The menorah engraved at the end of the inscription identifies it as belonging to the corpus of Jewish inscriptions. For the Jewish presence in Sicily, and particularly at Catania, during Late Antiquity, see Gebbia 1996.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
