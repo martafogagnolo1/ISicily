@@ -234,11 +234,11 @@
                     </app>
                 </listApp>
             </div>
-            <div type="translation">
+            <div type="translation" xml:lang="en" resp="#martaf">
                 <p>… Auxentios ...</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p>Secondo la descrizione del Ferrara (1829, 385), il frammento appartiene a una base di statua. Non si può inferire molto sul contenuto, ma il Kaibel (1890, 119) riteneva si trattasse di un epigramma (verosimilmente onorario). Alla l. 3 Kaibel identificava un participio medio femminile, mentre alla l. 4 correggeva l’<foreign xml:lang="grc">ΑΥΖΕΝΤΙΟΝ</foreign> della pietra in <foreign xml:lang="grc">ΑΥΞΕΝΤΙΟΝ</foreign>, un nome piuttosto raro, attestato nel tardo impero (IV-V secolo d.C.) e soprattutto tra Creta, Cilicia e Siria in ambiente cristiano (MAMA III 275) e ebraico (MAMA III 679).</p>
+                <p>According to the description of Ferrara (1829, 385), the fragment belongs to the base of a statue. It is not possible to infer much abotu the content, but Kaibel (1890, 119) believed it to be part of an epigram (probably honorific). At line 3 Kaibel identified a participle (middle, female), while at line 4 he corrected the <foreign xml:lang="grc">ΑΥΖΕΝΤΙΟΝ</foreign> of the stone to <foreign xml:lang="grc">ΑΥΞΕΝΤΙΟΝ</foreign>, a rather rare name, attested in the late Empire (C4-C5 CE) and especially in Crete, Cilicia, and Syria in Christian (MAMA III 275) and Hebrew (MAMA III 679) contexts.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
