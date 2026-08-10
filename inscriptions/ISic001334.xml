@@ -49,7 +49,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Catania</settlement>
@@ -107,8 +107,7 @@
 		</origPlace>
                             <origDate datingMethod="#julian" cert="low">(?)</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="observed">Seen by Amico “in museo S. Nicolai”.</provenance>
+                        <provenance type="found" subtype="discovered">Original discovery not recorded. Seen by Amico “in museo S. Nicolai”.</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -181,23 +180,28 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΠΕΡΙΜΥΣΣΑΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΚΟΜΕΝΗΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><orig>ΠΕΡΙΜΥΣΣΑΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><orig>ΚΟΜΕΝΗΝ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text: IG</note></app></listApp>
+                <listApp><app><note>Text: IG (after Amico, who marks lacunae at the end of each line)</note></app></listApp>
             </div>
             <div type="translation">
                 <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag; Kaibel comments, 'Videntur versus fuisse'-->
-                    According to Kaibel (ap. IG XIV 514), the text was composed in verse. The surviving traces of the second line may belong to a feminine singular accusative middle-passive participle.</p>
+                <p>Kaibel (ap. IG XIV 514) suggests that the text was composed in verse. The surviving traces of the second line may belong to a feminine singular accusative middle-passive participle.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
+					<bibl>
+                        <author>Amico</author>
+                        <date>1741</date>
+                        <citedRange>277</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/F5INCW3T"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002186">https://biblio.inscriptiones.org/epig10002186</ref>
+                    </bibl>
                     <bibl type="corpus" n="IG">
                         <author>Kaibel</author>
                         <date>1890</date>
