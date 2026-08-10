@@ -49,7 +49,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Catania</settlement>
@@ -105,10 +105,9 @@
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                             	<geo>37.49223, 15.07041</geo>
 		</origPlace>
-                            <origDate datingMethod="#julian" cert="low">(?)</origDate>
+                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0400">Roman imperial</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="obrserved">Seen by Amico (1740, 277) “in museo S. Nicolai”.</provenance>
+                        <provenance type="found">Original discovery not recorded. Seen by Amico (1740, 277) “in museo S. Nicolai”.</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -196,13 +195,11 @@
                     <app loc="line 5"><note>[καὶ τοῖς ἰδίοις Ferrua</note></app>     
                 </listApp>
             </div>
-            <div type="translation" resp="#martaf">
+            <div type="translation" xml:lang="en" resp="#martaf">
                 <p>… built it at his own expense for himself and his children.</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag. appears to have idios in it, presumably as poss.pron.-->
-                    According to Ferrua’s restorations (1941, 243), the epitaph includes a reference to the construction of the funerary monument at the deceased's own expense, for himself and his descendants. A less likely, though still possible, restoration is <foreign xml:lang="grc">ἐκ τ|ῶν] ἰδίων [ἐγόρασεν</foreign> (cf. IG XIV 529, ll. 4–5). On the formula fecit sibis et suis, which at Catania is attested exclusively in Christian funerary inscriptions, see Ferrua 1941, 242–243.</p>
+                <p>According to Ferrua’s restorations (1941, 243), the epitaph includes a reference to the construction of the funerary monument at the deceased's own expense, for himself and his descendants. A less likely, though still possible, restoration is <foreign xml:lang="grc">ἐκ τ|ῶν] ἰδίων [ἐγόρασεν</foreign> (cf. IG XIV 529, ll. 4–5). On the formula fecit sibis et suis, which at Catania is attested exclusively in Christian funerary inscriptions, see Ferrua 1941, 242–243.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
