@@ -50,7 +50,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Catania</settlement>
@@ -108,8 +108,7 @@
 		</origPlace>
                             <origDate datingMethod="#julian" cert="low">(?)</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="observed">Observed by Ferrara (1829, 383 n. 20) in the collection of the Baron Recupero.</provenance>
+                        <provenance type="found" subtype="discovered">Original discovery not recorded. Observed by Ferrara (1829, 383 n. 20) in the collection of the Baron Recupero.</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -195,8 +194,7 @@
                 <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag.-->The stone is too fragmentary to allow any firm conclusions regarding its content. At l. 4, Ferrara records a descending oblique stroke, which could belong to an Α, Δ, or Λ. It may instead be part of <foreign xml:lang="grc">αὐτα[</foreign>, the final letter perhaps resulting from a transcription error on Ferrara’s part.</p>
+                <p>The stone is too fragmentary to allow any firm conclusions regarding its content. At l. 4, Ferrara records a descending oblique stroke, which could belong to an Α, Δ, or Λ. It may instead be part of <foreign xml:lang="grc">αὐτα[</foreign>, the final letter perhaps resulting from a transcription error on Ferrara’s part.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
