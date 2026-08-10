@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Epitaph of Ienarios son of Primos</title>
+                <title>Epitaph of Ienari(o)s son of Primos</title>
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
@@ -44,7 +44,6 @@
                     <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
                     <resp>check encoded text, translation and commentary</resp>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -85,6 +84,7 @@
                             <supportDesc>
                                 <support><p>Marble plaque</p>
                                     <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/48.html">marble</material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html" cert="low">plaque</objectType>
                                     <dimensions><!--Default values and requires editing-->
                                         <height unit="cm">21</height>
                                         <width unit="cm">12</width>
@@ -123,7 +123,7 @@
                             <origDate datingMethod="#julian" notBefore-custom="0301" notAfter-custom="0500" cert="low">4th — 5th century CE
                                 (?)</origDate>
                         </origin>
-                        <provenance type="found">Found in the Cesareo’s property in via Ughetti (necropolis of Via Androne).</provenance>
+                        <provenance type="found">Found in the Cesareo property in via Ughetti (necropolis of Via Androne).</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -199,7 +199,7 @@
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#AC #JP">
                 <ab>
                     <lb n="1"/><w n="5">Ἐνθ<supplied reason="omitted">ά</supplied>δε</w> <w n="10">κεῖτε</w> <persName type="attested"><name><w n="15">Ἰε
-                    <lb n="2" break="no"/>νάρι<supplied reason="omitted">ο</supplied>ς</w></name> <w n="20">υἱὸς</w> <persName type="attested"><name type="patronym"><w n="25">Πρίμου</w></name></persName></persName>
+                    <lb n="2" break="no"/>νάρις</w></name> <w n="20">υἱὸς</w> <persName type="attested"><name type="patronym"><w n="25">Πρίμου</w></name></persName></persName>
                     <lb n="3"/><w n="30">τελευτᾷ</w> <w n="35">τῇ</w> <w n="40">πρὸ</w> <num value="9"><w n="45">θ</w></num> <w n="50"><expan><abbr>καλ</abbr><ex>ανδῶν</ex></expan></w>
                     <lb n="4"/><name><w n="55">Ἀπριλίων</w></name> <w n="60"><expan><abbr>ζήσ</abbr><ex>ας</ex></expan></w> <w n="65">ἔτη</w> <num value="8"><w n="70">η</w></num>
                     <lb n="5"/><w n="75"><expan><abbr>μήν</abbr><ex>ης</ex></expan></w> <num value="6"><w n="80">ς</w></num> <w n="85">κεῖτε</w> <w n="90">μετὰ</w>
@@ -210,7 +210,7 @@
                 <ab>
                     <w n="5" lemma="ἐνθάδε">Ἐνθάδε</w>
                     <w n="10" lemma="κεῖμαι">κεῖτε</w>
-                    <w n="15" lemma="Ἰεναρίς">Ἰεναρὶς</w>
+                    <w n="15" lemma="Ἰενάριος">Ἰεναρὶς</w>
                     <w n="20" lemma="υἱός">υἱὸς</w>
                     <w n="25" lemma="Πρῖμος">Πρίμου</w>
                     <w n="30" lemma="τελευτάω">τελευτᾆ</w>
@@ -241,10 +241,10 @@
                 <p>Here lies Ienarios, son of Primos. He died nine days before the Kalends of April, having lived eight years and six months. He rests together with his mother.</p>
             </div>
             <div type="translation" xml:lang="it" resp="#AC">
-                <p>Qui giace Ienaris figlio di Priamos. Egli è morto 9 giorni prima delle Calende di Aprile, all'età di 8 anni e 6 mesi. Giace accanto a (sua) madre</p>
+                <p>Qui giace Ienarios figlio di Priamos. Egli è morto 9 giorni prima delle Calende di Aprile, all'età di 8 anni e 6 mesi. Giace accanto a (sua) madre</p>
             </div>
             <div type="commentary">
-                <p>The funerary inscription for the young deceased Ienarios, son of Primos, follows Korhonen's (2004, 105) G8c pattern for Christian epitaphs, characterized by the formula <foreign xml:lang="grc">ἐνθάδε κεῖται</foreign>, the indication of the date of death by means of a finite verb, and the expression of the deceased's age through a participial construction. The deceased is named <foreign xml:lang="grc">Ἰενάριος</foreign> (rather than <foreign xml:lang="grc">Ἰεναρίς</foreign>, a feminine name, as suggested by Libertini and Agnello), a variant of <foreign xml:lang="grc">Ἰανουάριος</foreign> (other variants include <foreign xml:lang="grc">Ἰανάριος</foreign> and <foreign xml:lang="grc">Ἰανάρις</foreign>; for these variants in Sicily LGPN IIIA 215). His father bears the name <foreign xml:lang="grc">Πρῖμος</foreign> (for the variant <foreign xml:lang="grc">Πρεῖμος</foreign>, cf. IG XIV 498 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000648">ISic000648</ref>). From ll. 5–6, <foreign xml:lang="grc">κεῖτε μετὰ | τῆς μάμη<corr>ς</corr></foreign>, it may be inferred that the child was buried together with his mother. The term <foreign xml:lang="grc">μάμη</foreign> (a variant of <foreign xml:lang="grc">μάμμη</foreign>; cf. IG XIV 765a) lends an affectionate nuance to the statement and may be connected precisely with the young age of the deceased (cf. IMusCatania 204; see Korhonen 2004, 268).</p>
+                <p>The funerary inscription for the young deceased Ienarios, son of Primos, follows Korhonen's (2004, 105) G8c pattern for Christian epitaphs, characterized by the formula <foreign xml:lang="grc">ἐνθάδε κεῖται</foreign>, the indication of the date of death by means of a finite verb, and the expression of the deceased's age through a participial construction. The deceased's name as engraved is presumably a variant for <foreign xml:lang="grc">Ἰενάριος</foreign> (rather than <foreign xml:lang="grc">Ἰεναρίς</foreign>, a feminine name, as suggested by Libertini and Agnello), in turn a variant of <foreign xml:lang="grc">Ἰανουάριος</foreign> (other variants include <foreign xml:lang="grc">Ἰανάριος</foreign> and <foreign xml:lang="grc">Ἰανάρις</foreign>; for these variants in Sicily LGPN IIIA 215). His father bears the name <foreign xml:lang="grc">Πρῖμος</foreign> (for the variant <foreign xml:lang="grc">Πρεῖμος</foreign>, cf. IG XIV 498 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000648">ISic000648</ref>). From ll. 5–6, <foreign xml:lang="grc">κεῖτε μετὰ | τῆς μάμη<corr>ς</corr></foreign>, it may be inferred that the child was buried together with his mother. The term <foreign xml:lang="grc">μάμη</foreign> (a variant of <foreign xml:lang="grc">μάμμη</foreign>; cf. IG XIV 765a) lends an affectionate nuance to the statement and may be connected precisely with the young age of the deceased (cf. IMusCatania 204; see Korhonen 2004, 268).</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
