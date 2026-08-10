@@ -34,7 +34,6 @@
                     <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
                     <resp>check encoded text, translation and commentary</resp>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -54,10 +53,10 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
-                        <settlement>unknown</settlement>
+                        <settlement>Catania</settlement>
                         <repository>unknown</repository>
                         <!--No inventory number found-->
                         <!--Adding location for old id numbers if available-->
@@ -110,11 +109,10 @@
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                             	<geo>37.49223, 15.07041</geo>
 		</origPlace>
-                            <origDate datingMethod="#julian" notBefore-custom="0201" notAfter-custom="0600">Christian; enthade keitai
+                            <origDate datingMethod="#julian" notBefore-custom="0301" notAfter-custom="0600">Christian; enthade keitai
                                 (?)</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="observed">Observed “penes Blascum Romanum Columnam” by Amico.</provenance>
+                        <provenance type="found">Original discovery not recorded. Observed “penes Blascum Romanum Columnam” by Amico.</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <provenance type="not-observed" subtype="lost">Lost.</provenance>
                     </history>
@@ -169,7 +167,8 @@
         	    <change when="2020-12-22" who="#JP">Updated Zenodo DOI</change>
             	<change when="2021-01-19" who="#SS">renumbered files, uris and references</change>
                 <change when="2021-06-11" who="#AA">Epidoc editing</change>
-                <change when="2025-12-18" who="#ZG">Zoe Greblunas tagged names and persons</change>                 <change when="2026-08-03" who="#martaf">Marta Fogagnolo revised the text encoding, added the translation and the commentary</change>
+                <change when="2025-12-18" who="#ZG">Zoe Greblunas tagged names and persons</change>
+				<change when="2026-08-03" who="#martaf">Marta Fogagnolo revised the text encoding, added the translation and the commentary</change>
 	</listChange>
         </revisionDesc>
     </teiHeader>
@@ -195,18 +194,17 @@
             </div>
             <div type="apparatus" resp="#martaf">
                 <listApp>
+					<app><note>Text after IG</note></app>
                     <app loc="lines 1-2"><note>[κεῖ]|τε CIG IV 9501; [κῖ]|τε IG XIV 547, Agnello 1953 n. 54</note></app>
                     <app loc="line 2"><note>Π<corr>ρ</corr>ιμ[ιγένιος IG XIV 547, Agnello 1953 n. 54; ΠΙΜ[ CIG IV 9501</note></app>
                     <app loc="line 4"><note>θυρ[ CIG IV 9501; θυρ[ωρός IG XIV 547, Agnello 1953 n. 54</note></app> 
                 </listApp>
             </div>
-            <div type="translation" resp="#martaf">
+            <div type="translation" xml:lang="en" resp="#martaf">
                 <p>Here lies Primigenios, hypodiakonos and ...</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag. enthade keitai; poss. epitaph of Primigenios, sub-deacon-->
-                    The Christian funerary inscription records the name of the deceased, <foreign xml:lang="grc">Πριμιγένιος</foreign> (cf. <foreign xml:lang="grc">Πριμιγένης</foreign> in IG XIV 467 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001291">ISic001291</ref> and <foreign xml:lang="grc">Πριμογένης</foreign> in IG XIV 546 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001365">ISic001365</ref>, both from Catania), together with some ranks of the ecclesiastical hierarchy (cf. Grossi Gondi 1920, 120–125, 133–136); on the reading at l. 4 <foreign xml:lang="grc">θυρ[ωρός</foreign>, see Agnello (1953 n. 54).</p>
+                <p>The Christian funerary inscription records the name of the deceased, <foreign xml:lang="grc">Πριμιγένιος</foreign> (cf. <foreign xml:lang="grc">Πριμιγένης</foreign> in IG XIV 467 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001291">ISic001291</ref> and <foreign xml:lang="grc">Πριμογένης</foreign> in IG XIV 546 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001365">ISic001365</ref>, both from Catania), together with some ranks of the ecclesiastical hierarchy (cf. Grossi Gondi 1920, 120–125, 133–136); on the reading at l. 4 <foreign xml:lang="grc">θυρ[ωρός</foreign>, see Agnello (1953 n. 54).</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
