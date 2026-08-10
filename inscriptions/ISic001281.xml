@@ -82,6 +82,7 @@
                             <supportDesc>
                                 <support>
                                     <material ana="#material.inorganic.stone" type="stone.unspecified" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/2.html">stone</material>
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
                                     <dimensions><!--Default values and requires editing-->
                                         <height unit="cm"/>
                                         <width unit="cm"/>
@@ -117,11 +118,9 @@
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                                 <geo>37.49223, 15.07041</geo>
                             </origPlace>
-                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0400">Theois chtoniois, in full;
-                                age in years; chaire (?)</origDate>
+                            <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0400">Imperial period</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="observed">First recorded by Münter</provenance>
+                        <provenance type="found" subtype="discovered">First recorded by Münter</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -213,25 +212,16 @@
                     <gap reason="lost" extent="unknown" unit="character" n="35"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
-            <div type="apparatus">
-                <listApp>
-                    <app>
-                        <note>text of IG</note>
-                    </app>
-                </listApp>
-            </div>
-            <div type="apparatus" resp="#martaf">
+           <div type="apparatus" resp="#martaf">
                 <app loc="line 1"><note>[Θε]οῖς Χθο[νίοις] Franz (ap. CIG III 5732c); Kaibel (ap. IG XIV 457)</note></app>
                 <app loc="line 2"><note>Ἀγάθη χ[αῖρε] Kaibel (ap. IG XIV 457); ἡ δεῖνα ἀ]γάθη Franz (ap. CIG III 5732c)</note></app>
                 <app loc="line 3"><note>[ἔ]ζησεν [ἔτη ---]  Franz (ap. CIG III 5732c); Kaibel (ap. IG XIV 457)</note></app>
             </div>
-            <div type="translation" resp="#martaf">
+            <div type="translation" xml:lang="en" resp="#martaf">
                 <p>To the Gods of the Underworld. Agathe, farewell! She lived for … years.</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag. header is theois chthoniois in full; name is Agathe; chaire; age in years.-->
-                    This epitaph is dedicated to a female deceased, Agathe and preceeded by the invocation to the Gods of the Underworld, in a less usual form than <foreign xml:lang="grc">Θεοῖς Καταχθονίοις, Θεοῖς Χθονίοις</foreign> (cf. IG XIV 30 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000847">ISic000847</ref>, IG XIV 49 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000866">ISic000866</ref>, both from Siracuse). The not abbreviated form is found before the Augustan age, but occasionally also after: this seems to be the case, if at l. 2 we read the name Agathe (and not an adjective referred to the deceased, with the name in the lacuna, as Franz ap. CIG III 5732c).  <foreign xml:lang="grc">Ἀγάθη</foreign> is a name which recurs in Catania in several palaeochristian epitaphs: IG XIV 523 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001343">ISic001343</ref>), IG XIV 524 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001334">ISic001344</ref>), IG XIV 525 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000964">ISic000964</ref>), IG XIV 552 (<ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001371">ISic001371</ref>). The age, expressed in numerals, is lost in the final lacuna. </p>
+                <p>This epitaph is dedicated to a deceased female, Agathe, and preceeded by an invocation to the Gods of the Underworld, in a less usual form than the more typical <foreign xml:lang="grc">Θεοῖς Καταχθονίοις</foreign> (cf. IG XIV 30 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000847">ISic000847</ref>, IG XIV 49 = <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000866">ISic000866</ref>, both from Siracusa). The unabbreviated form is found before the Augustan age, but occasionally also after: this seems to be the case, if at l. 2 we read the name Agathe (and not an adjective referred to the deceased, with the name in the lacuna, as Franz ap. CIG III 5732c).  <foreign xml:lang="grc">Ἀγάθη</foreign> is a name which recurs in Catania in several palaeochristian epitaphs: IG XIV 523 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001343">ISic001343</ref>), IG XIV 524 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001334">ISic001344</ref>), IG XIV 525 (= <ref target="https://sicily.classics.ox.ac.uk/inscription/ISic000964">ISic000964</ref>), IG XIV 552 (<ref target="https://sicily.classics.ox.ac.uk/inscription/ISic001371">ISic001371</ref>). The age, expressed in numerals, is lost in the final lacuna. </p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
