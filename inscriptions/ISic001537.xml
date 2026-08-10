@@ -30,7 +30,6 @@
                     <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
                     <resp>check encoded text, translation and commentary</resp>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -107,7 +106,7 @@
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                             	<geo>37.49223, 15.07041</geo>
 		</origPlace>
-                            <origDate datingMethod="#julian" notBefore-custom="0351" notAfter-custom="0500">Site is dated by Orsi to between mid 4th century and later 5th century CE</origDate>
+                            <origDate datingMethod="#julian" notBefore-custom="0351" notAfter-custom="0500">Site is dated by Orsi to between mid-4th century and later 5th century CE</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered" when="1893">Found in 1893 in Necropolis on the viale della Barriera, Catania</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
@@ -196,6 +195,7 @@
             </div>
             <div type="apparatus">
                 <listApp>
+					<app><note>Text of Agnello checked against inventory transcription</note></app>
                     <app loc="lines 6-7"><note>νυνφευ|[θεῖσα ἐν γα]μῷ Agnello</note></app>
                     <app loc="line 8"><note>[ἐτελεύτη]σεν Orsi, Agnello</note></app>
                     <app loc="lines 9-10"><note>ἡ κοί|[μησίς σου Agnello</note></app>
