@@ -44,7 +44,6 @@
                     <name xml:id="martaf" ref="https://orcid.org/0000-0001-5187-5163">Marta Fogagnolo</name>
                     <resp>check encoded text, translation and commentary</resp>
                 </respStmt>
-                
             </titleStmt>
             <publicationStmt>
                 <authority>I.Sicily</authority>
@@ -244,8 +243,7 @@
                 <p>Purchase by Palladios, the husband of Pelagia. Pelagia was born 11 days before the Kalends of … and died on … September. Here lies, having had only one husband.</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--right side of an incomplete funerary inscription perhaps recording a Palladios and a Pelagia, died in the month of september. Kaible connects physically with 530a, although this appears to be based on an over literal reading of the layout of Gualtherus no.40 and no.41-->
+                <p><!--right side of an incomplete funerary inscription perhaps recording a Palladios and a Pelagia, died in the month of september. Kaible connects physically with 530a, although this appears to be based on an over literal reading of the layout of Gualtherus no.40 and no.41-->
                     The funerary inscription includes reference to the purchase of the tomb by the husband of the deceased, <foreign xml:lang="grc">Παλλάδιος</foreign>, with the presence of the noun <foreign xml:lang="grc">ἀγορασία</foreign> (restored) and the genitive of the purchaser, following a formula more widespread at Syracuse, but also attested at Catania (cf. SEG 4.60, JIWE I 150). For the deceased <foreign xml:lang="grc">Πελάγια</foreign> (the name is also attested in Syracuse, ASSiracusano 1956, 57), both her date of birth (ll. 2-3) and date of death (ll. 4-5) are indicated, while the final closing expression with <foreign xml:lang="grc">ἐνθάδε κεῖται</foreign> contains the information that Pelagia had only one husband in her lifetime: on the epithet <foreign xml:lang="grc">μόνανδρος</foreign> used in epitaphs to emphasize a woman's virtue, and other epithets highlighting conjugal fidelity and love, see Grandinetti 2006, 35-36 (for <foreign xml:lang="grc">μόνανδρος</foreign> used in another Sicilian epitaph, see IG XIV 191, from Syracuse).</p>
             </div>
             <div type="bibliography">
