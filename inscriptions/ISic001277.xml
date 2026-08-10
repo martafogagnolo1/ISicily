@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Funerary inscription</title>
+                <title>Fragmentary funerary inscription</title>
                 <editor ref="#JP">Jonathan Prag</editor>
                 <principal ref="#JP">Jonathan Prag</principal>
                 <funder>John Fell OUP Research Fund</funder>
@@ -66,7 +66,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Palermo</settlement>
@@ -87,16 +87,17 @@
                             <supportDesc>
                                 <support><p>Fragment of a limestone slab, fragmentary on the right.</p>
                                     <material type="inorganic.stone" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/66.html">limestone</material>
-                                    <dimensions><!--Default values and requires editing-->
+                                    <objectType ana="#object.plaque" ref="https://www.eagle-network.eu/voc/objtyp/lod/259.html">plaque</objectType>
+                                    <dimensions>
                                         <height unit="cm">18</height>
-                                        <width unit="cm">14,5</width>
-                                        <depth unit="cm">2,5</depth>
+                                        <width unit="cm">14.5</width>
+                                        <depth unit="cm">2.5</depth>
                                     </dimensions>
                                 </support>
                                 <condition/>
                             </supportDesc>
                             <layoutDesc>
-                                <layout><!--Default value and requires checking-->
+                                <layout>
                                     <rs ana="#execution.chiselled" ref="http://www.eagle-network.eu/voc/writing/lod/1">chiselled</rs>
                                     <damage/>
                                 </layout>
@@ -106,7 +107,7 @@
                             <handNote><!--Default value and requires editing-->
                                 <locus from="line1" to="line1">Line 1</locus>
                                 <dimensions type="letterHeight">
-                                    <height unit="mm">15-30</height>
+                                    <height unit="mm" atLeast="15" atMost="30">15-30</height>
                                 </dimensions>
                                 <locus from="line1" to="line2">Interlineation line 1 to 2</locus>
                                 <dimensions type="interlinear">
@@ -198,7 +199,7 @@
     </facsimile>
     <text>
         <body>
-            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#VM">
+            <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#VM #martaf">
                 <ab>
                     <lb n="1"/><w n="5">θή<supplied reason="lost">κη</supplied></w>
                     <lb n="2"/><persName type="attested"><name><w part="I" n="10">Ἀρτεμ</w><gap reason="lost" extent="unknown" unit="character" n="15"/></name></persName>
@@ -222,7 +223,7 @@
                     <gap reason="lost" extent="unknown" unit="character" n="55"><desc>[-?-]</desc></gap>
                 </ab>
             </div>
-            <div type="apparatus">
+            <div type="apparatus" resp="martaf">
                 <app loc="line 1"><note>θήκη Franz (ap. CIG III 5572), Sandberg, IGMusPalermo 6; Ferrua; ΘΗ Torremuzza; ΘΜ Schiavo; Θε(οῖς πᾶσι) Kaibel (ap. IG XIV 452)</note></app>
                 <app loc="line 2"><note>Ἀρτεμ[- - ? - -] IGMusPalermo 6 (fortasse Ἀρτέμ[ονος, Ferrua); Ἀρτέμ[ωνος Franz (ap. CIG III 5572), SEG 14.597; Ἀρτεμ[ισίου Sandberg</note></app>
                 <app loc="lines 3-4"><note>καὶ τοῦ[- - ? - -]-|ου IGMusPalermo 6 (fortasse καὶ τοῦ [υἱων|οῦ); καὶ τοῦ [υἱ|οῦ Franz (ap. CIG III 5572); καὶ τοῦ [ἀδελφ|οῦ ? Sandberg; καῖ τοῦ [υεἵ|ου Ferrua</note></app>
@@ -230,12 +231,10 @@
                 <app loc="line 5"><note>εὐπλ[- - ? - -] IGMusPalermo 6 (fortasse εὐπλ[όων); Εὐπλ[--- Franz (ap. CIG III 5572); εὐπλοίας ἔνεκα Kaibel (ap. IG XIV 452); εὔπλ[οει vel εὐπλ[οεῖτε Sandberg; Εὔπλ[ους vel Εὐπλ[ία Alföldi; Εὔπλ[ου Ferrua</note></app>
             </div>
             <div type="translation" resp="#martaf">
-                <p>Tomb of Artem… and of his … have a good travel.</p>
+                <p>Tomb of Artem… and of his … fare you well.</p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--frag; heading appears to be theke (known elsewhere in Italy); name could be Artemon. The whole is restored in SEG as: Theke Artemonos kai tou adelphou autou ... euploeite. Also Torremuzza Iscr. Pal. no. LXI and p.340 f.-->
-                    This inscription is highly fragmentary: most editors have interpreted it as a funerary inscription. Torremuzza’s reading (1784 cl. XVIII no. 33) of l. 1 ΘΗ, together with the presence of two genitives in ll. 3–4, leaves no room for alternative interpretations: <foreign xml:lang="grc">θήκη</foreign> is also used in other funerary inscriptions in the sense of “tomb” (e.g. IG XIV 633, 783). Ferrua (1989, 113–114 no. 428) identifies this term as a Christian word and integrates a christogram at the end of the inscription. Kaibel’s reading (ap. IG XIV 452) of l. 1 <foreign xml:lang="grc">Θε[οῖς πᾶσι</foreign>, besides being erroneous, is at the root of an incorrect interpretation of the document’s typology, which the scholar considered to be a dedicatory epigraph; this interpretation, however, conflicts with the genitives at ll. 3–4. It is therefore preferable to understand the text as an epitaph, for a deceased individual whose name is only partially preserved and which scholars have variously restored as <foreign xml:lang="grc">Ἀρτέμων</foreign> (Franz ap. CIG III 5572; Manni Piraino ap. IGMusPalermo 6) or <foreign xml:lang="grc">Ἀρτεμίσιος</foreign> (Sandberg 1954, 41), and for one of his relatives (the son according to Franz ap. CIG III 5572; the brother according to Sandberg 1954, 41; or the grandson according to Manni Piraino ap. IGMusPalermo 6). The last line has received several readings: Kaibel (ap. IG XIV 452), assuming it to be a dedication, read <foreign xml:lang="grc">εὐπλοίας ἔνεκα</foreign>, the expression used to thank the gods for a safe voyage, whereas Alföldi (1976, 511), although agreeing on the funerary destination of the text, was perhaps influenced by Kaibel’s interpretation and read a proper name (<foreign xml:lang="grc">Εὔπλους</foreign> or <foreign xml:lang="grc">Εὐπλία</foreign>), understood as the dedicant. For Ferrua (1989, 113–114 no. 428), this was the proper name of the deceased’s son, <foreign xml:lang="grc">Εὔπλου</foreign>. Sandberg (1954, 41–42), supported by Manni Piraino (ap. IGMusPalermo 6), read the imperative <foreign xml:lang="grc">εὔπλοει</foreign> or <foreign xml:lang="grc">εὐπλοεῖτε</foreign> as a wish addressed to the passer-by, similar to <foreign xml:lang="grc">εὐτύχει</foreign> or <foreign xml:lang="grc">εὐτυχεῖτε</foreign>: the plural form is also found in IG XIV 933 l. 11 (Portus, 1st–2nd century AD), while in the singular the contracted form <foreign xml:lang="grc">εὐπλόι</foreign> is more common (IG XIV 2409, 8; SEG 42.942 l. 2; IG XIV 2472 l. 9 = CIL XII 758).</p>
+                <p>This inscription is highly fragmentary: most editors have interpreted it as a funerary inscription. Torremuzza’s reading (1784 cl. XVIII no. 33) of l. 1 ΘΗ, together with the presence of two genitives in ll. 3–4, leaves no room for alternative interpretations: <foreign xml:lang="grc">θήκη</foreign> is also used in other funerary inscriptions in the sense of “tomb” (e.g. IG XIV 633, 783). Ferrua (1989, 113–114 no. 428) identifies this term as a Christian word and integrates a christogram at the end of the inscription. Kaibel’s reading (ap. IG XIV 452) of l. 1 <foreign xml:lang="grc">Θε[οῖς πᾶσι</foreign>, besides being erroneous, is at the root of an incorrect interpretation of the document’s typology, which the scholar considered to be a dedicatory epigraph; this interpretation, however, conflicts with the genitives at ll. 3–4. It is therefore preferable to understand the text as an epitaph, for a deceased individual whose name is only partially preserved and which scholars have variously restored as <foreign xml:lang="grc">Ἀρτέμων</foreign> (Franz ap. CIG III 5572; Manni Piraino ap. IGMusPalermo 6) or <foreign xml:lang="grc">Ἀρτεμίσιος</foreign> (Sandberg 1954, 41), and for one of his relatives (the son according to Franz ap. CIG III 5572; the brother according to Sandberg 1954, 41; or the grandson according to Manni Piraino ap. IGMusPalermo 6). The last line has received several readings: Kaibel (ap. IG XIV 452), assuming it to be a dedication, read <foreign xml:lang="grc">εὐπλοίας ἔνεκα</foreign>, the expression used to thank the gods for a safe voyage, whereas Alföldi (1976, 511), although agreeing on the funerary destination of the text, was perhaps influenced by Kaibel’s interpretation and read a proper name (<foreign xml:lang="grc">Εὔπλους</foreign> or <foreign xml:lang="grc">Εὐπλία</foreign>), understood as the dedicant. For Ferrua (1989, 113–114 no. 428), this was the proper name of the deceased’s son, <foreign xml:lang="grc">Εὔπλου</foreign>. Sandberg (1954, 41–42), supported by Manni Piraino (ap. IGMusPalermo 6), read the imperative <foreign xml:lang="grc">εὔπλοει</foreign> or <foreign xml:lang="grc">εὐπλοεῖτε</foreign> as a wish addressed to the passer-by, similar to <foreign xml:lang="grc">εὐτύχει</foreign> or <foreign xml:lang="grc">εὐτυχεῖτε</foreign>: the plural form is also found in IG XIV 933 l. 11 (Portus, 1st–2nd century AD), while in the singular the contracted form <foreign xml:lang="grc">εὐπλόι</foreign> is more common (IG XIV 2409, 8; SEG 42.942 l. 2; IG XIV 2472 l. 9 = CIL XII 758).</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
