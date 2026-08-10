@@ -119,6 +119,7 @@
                             <origDate datingMethod="#julian" notBefore-custom="0001" notAfter-custom="0400">imperial period</origDate>
                         </origin>
                         <provenance type="found" subtype="discovered">Carrera reports found outside the walls of the city on the west side</provenance>
+                        <provenance type="not-observed" subtype="lost">Lost</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -193,7 +194,7 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#JP">
                 <ab>
-                    <lb n="1"/><w n="5"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <w n="10"><expan><abbr>κ<unclear>α</unclear></abbr><ex>ταχθονίοις</ex></expan></w> <w><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan></w>
+                    <lb n="1"/><w n="5"><expan><abbr>Θ</abbr><ex>εοῖς</ex></expan></w> <w n="10"><expan><abbr>κ<unclear>α</unclear></abbr><ex>ταχθονίοις</ex></expan></w> <w n="12"><expan><abbr>Δ</abbr><ex>αίμοσι</ex></expan></w>
                     <lb n="2"/><persName type="attested"><name><w n="15">Βειψάνιο<supplied reason="lost">ς</supplied></w></name>
                     <lb n="3"/><name><w n="20">Ζώτικος</w></name></persName> <w n="25"><supplied reason="lost">ἔζησεν</supplied></w>
                     <lb n="4"/><w n="30">ἔτη</w> <g ref="#interpunct" n="35">·</g> <num value="30"><w n="40">λ</w></num> <g ref="#interpunct" n="45">·</g> <persName type="attested"><name><w n="50">Ἡρακλ<supplied reason="lost">εία</supplied></w></name></persName>
@@ -204,6 +205,7 @@
                 <ab>
                     <w n="5" lemma="θεός">Θεοῖς</w>
                     <w n="10" lemma="καταχθόνιος">καταχθονίοις</w>
+                    <w n="12" lemma="δαιμόνιος">Δαίμοσι</w>
                     <w n="15" lemma="Βειψάνιος">Βειψάνιος</w>
                     <w n="20" lemma="Ζώτικος">Ζώτικος</w>
                     <w n="25" lemma="ζάω">ἔζησεν</w>
@@ -223,13 +225,18 @@
             <div type="translation" resp="#martaf">
                 <p>To the Underworld Gods. Vipsanius Zotikos lived for 30 years. Herakleia (set this up) for her most devoted husband.</p>
             </div>
-            <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--Th.K. heading; to Beipsanios (Vipsanius) Zotikos; age in years. erected by Herakleia. cf. IG 14.494 and CIL 10.7101 for family?-->
-                    The epitaph was dedicated by his wife, Herakleia, to her husband, Vispanius Zotikos, who was probably a freedman of the gens Vipsania, whose members were well represented at Catania. This is unsurprising, as Vipsanius Agrippa owned estates in the area (see Salmeri 1984, 18–19), and is further confirmed by other Imperial-period funerary inscriptions mentioning individuals of the Vipsanii (IG XIV 494; IMusCatania 146; CIL X 2, 7101). The epitaph belongs to Formula G4 in Korhonen’s classification (2004, 86–87). It comprises an invocation to the gods—in the abbreviated form <foreign xml:lang="grc">ΘΚΔ</foreign>, which represents a conflation of the formulae <foreign xml:lang="grc">Θ(εοῖς) Κ(αταχθονίοις)</foreign> and <foreign xml:lang="grc">Θ(εοῖς) Δ(αίμοσι)</foreign> (cf. SEG 52, 903 and 905 from Drepanum)—followed by the name of the deceased and his age, the name of the dedicator, and the deceased’s name in the dative accompanied by an expression specifying the relationship between the two. The restoration proposed by Kaibel (ap. IG XIV 495), <foreign xml:lang="grc">εὐσεβ[εστάτῳ]</foreign>, is particularly convincing, since at Catania the superlative of <foreign xml:lang="grc">εὐσεβής</foreign> is attested exclusively in this type of funerary formula (cf. Korhonen 2004, 90).</p>
+            <div type="commentary" resp="#martaf #JP">
+                <p>The epitaph was dedicated by his wife, Herakleia, to her husband, Vispanius Zotikos, who was probably a freedman of the gens Vipsania, whose members were well represented at Catania. This is unsurprising, as Vipsanius Agrippa owned estates in the area (see Salmeri 1984, 18–19), and is further confirmed by other Imperial-period funerary inscriptions mentioning individuals of the Vipsanii (IG XIV 494; IMusCatania 146; CIL X 2, 7101). The epitaph belongs to Formula G4 in Korhonen’s classification (2004, 86–87). It comprises an invocation to the gods — in the otherwise unparalleled abbreviated form <foreign xml:lang="grc">ΘΚΔ</foreign>, which represents a conflation of the formulae <foreign xml:lang="grc">Θ(εοῖς) Κ(αταχθονίοις)</foreign> and <foreign xml:lang="grc">Θ(εοῖς) Δ(αίμοσι)</foreign> (the instances in SEG 52.903 and 905 are antiquarian forgeries derived from this text) — followed by the name of the deceased and his age, the name of the dedicator, and the deceased’s name in the dative accompanied by an expression specifying the relationship between the two. The header is reported as complete and intact by Carrera and there is therefore no inherent reason to doubt it, although the abbreviation <foreign xml:lang="grc">Κα(ταχθονίοις)</foreign> is attested in ISic001152 from Termini Imerese and Carrera might have misread delta for alpha. The restoration proposed by Kaibel for line 5 (ap. IG XIV 495), <foreign xml:lang="grc">εὐσεβ[εστάτῳ]</foreign>, is particularly convincing, since at Catania the superlative of <foreign xml:lang="grc">εὐσεβής</foreign> is attested exclusively in this type of funerary formula (cf. Korhonen 2004, 90).</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
+                     <bibl>
+                        <author>Carrera</author>
+                        <date>1639</date>
+                        <citedRange>289</citedRange>
+                        <ptr target="https://www.zotero.org/groups/382445/items/JPVJSTWU"/>
+                        <ref target="https://biblio.inscriptiones.org/epig10002755">https://biblio.inscriptiones.org/epig10002755</ref>
+                    </bibl>
                     <bibl type="corpus" n="IG">
                         <author>Kaibel</author>
                         <date>1890</date>
