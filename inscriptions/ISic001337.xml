@@ -50,7 +50,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier><!--Default country and region-->
+                    <msIdentifier>
                         <country>Italy</country>
                         <region>Sicily</region>
                         <settlement>Catania</settlement>
@@ -71,6 +71,7 @@
                             <supportDesc>
                                 <support><p>A square block of black stone.</p>
                                     <material type="inorganic.stone" subtype="unverified" ref="http://www.eagle-network.eu/voc/material/lod/16.html" cert="low">basalt</material>
+									<objectType ana="#object.block" ref="http://www.eagle-network.eu/voc/objtyp/lod/189.html">block</objectType>
                                     <dimensions><!--Default values and requires editing-->
                                         <height unit="cm"/>
                                         <width unit="cm"/>
@@ -106,10 +107,9 @@
                                 <placeName type="modern" ref="http://sws.geonames.org/2525068">Catania</placeName>
                             	<geo>37.49223, 15.07041</geo>
 		</origPlace>
-                            <origDate datingMethod="#julian" cert="low">(?)</origDate>
+                            <origDate datingMethod="#julian" notBefore-custom="-0300" notAfter-custom="0400">Hellenistic or Roman?</origDate>
                         </origin>
-                        <provenance type="found">Original discovery not recorded.</provenance>
-                        <provenance type="found">Found in 1634 “in alcune rovine del Corso” (Carrera 1639, 290).</provenance>
+                        <provenance type="found" subtype="discovered>Found in 1634 “in alcune rovine del Corso” (Carrera 1639, 290).</provenance>
                         <provenance type="observed" subtype="autopsied">None</provenance>
                         <acquisition/>
                     </history>
@@ -182,19 +182,17 @@
         <body>
             <div type="edition" subtype="primary" xml:space="preserve" xml:lang="grc" resp="#AA">
                 <ab>
-                    <lb n="1"/>ΠΟ<orig>Λ</orig><gap reason="illegible" quantity="1" unit="character"/><orig>ΛΙ</orig>Β
+                    <lb n="1"/><orig>ΠΟΛ</orig><gap reason="illegible" quantity="1" unit="character"/><orig>ΛΙ</orig>Β
                 </ab>
             </div>
             <div type="apparatus">
-                <listApp><app><note>Text: IG</note></app></listApp>
+                <listApp><app><note>Text of IG after Carrera</note></app></listApp>
             </div>
             <div type="translation">
                 <p><!--translation(s) - add @xml:lang for 'en' or 'it' to div--></p>
             </div>
             <div type="commentary" resp="#martaf">
-                <p><!--commented out pending revision-->
-                    <!--large square block. Simply reads POL . LIB-->
-                    The stone is too fragmentary to allow any firm conclusions regarding its content. Carrera (1639, 290), however, believed that he could identify a reference to the war between the Catanians and the Libyans.</p>
+                <p>The stone is too fragmentary to allow any firm conclusions regarding its content. Carrera (1639, 290), however, believed that he could identify a reference to the war between the Catanians and the Libyans.</p>
             </div>
             <div type="bibliography">
                 <listBibl type="edition">
@@ -209,7 +207,7 @@
                     <bibl/>
                     <bibl>
                         <author>Carrera</author>
-                        <date>1963</date>
+                        <date>1639</date>
                         <citedRange>290</citedRange>
                         <ptr target="http://zotero.org/groups/382445/items/JPVJSTWU"/>
                         <ref target="https://biblio.inscriptiones.org/epig10002755">https://biblio.inscriptiones.org/epig10002755</ref>
